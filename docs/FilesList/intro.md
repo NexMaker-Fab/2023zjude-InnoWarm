@@ -43,10 +43,11 @@
 ## 张京奥
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/zhangja.jpg" width="300px" height="300px">
+    <img src="https://github.com/aooazja/2023zjude-zja/blob/f571a77bb4a622c64a7e2dad54c526824c7215b6/IMG/WechatIMG5.jpg" width="300px" height="300px">
 </div>
 
 >佛系选手，希望可以有更多时间吃喝玩乐。喜欢篮球，网球等等运动，游戏好玩的都玩，KTV专业吃果盘
+>
 >个人网页：https://aooazja.github.io/2023zjude-zja/。
 
 ## 赵欣
