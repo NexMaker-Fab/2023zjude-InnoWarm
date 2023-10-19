@@ -48,7 +48,7 @@
 
 >佛系选手，希望可以有更多时间吃喝玩乐。喜欢篮球，网球等等运动，游戏好玩的都玩，KTV专业吃果盘
 >
->个人网页：https://aooazja.github.io/2023zjude-zja/。
+>个人网页：https://aooazja.github.io/2023zjude-zja/
 
 ## 赵欣
 
