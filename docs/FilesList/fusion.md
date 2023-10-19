@@ -2,7 +2,7 @@
 
 本次《设计工程学》的课程，主要讲授了Fusion的使用方法。
 
-## 2.1 插件安装过程
+
 (1) 点击实用程序的附加模块里的Fusion 360 APP store，搜索需要的插件，如gear
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114347.png"  height="300px">
