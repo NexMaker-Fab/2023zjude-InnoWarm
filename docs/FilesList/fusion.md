@@ -2,7 +2,11 @@
 
 本次《设计工程学》的课程，主要讲授了Fusion的使用方法。
 
-## 2.1 零件建模过程
+## 2.1 软件安装过程
+
+
+
+## 2.2 零件建模过程
 (1) 在zju2023内新建小组文件夹，进入草图，绘制一个中心矩形，长宽都为200mm
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018233509.png"  height="300px">
@@ -93,5 +97,7 @@
 </div>
 
 
-图例：
-<iframe width=640 height=480 src="https://a360.co/490Z5ao" ></frame>
+
+## 2.3 零件建模图例
+
+<iframe width=640 height=480 src="https://a360.co/48R9Go6" ></frame>
