@@ -22,6 +22,7 @@
 
 >柴少龙，浙江大学在读研究生，机械专业（工业设计工程方向）。本人积极乐观，性格开朗，富有正义感，勤奋好学，对工作认真负责。
 
+>个人网页：https://zju-design-csl.github.io/personal-website/
 ## 冒杨
 
 <div class="center">
