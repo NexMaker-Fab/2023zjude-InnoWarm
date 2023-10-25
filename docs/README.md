@@ -19,7 +19,7 @@
 - [x] git use word not picture
 - [x] how to collaborator team
 
-2. CAD
+2. CAD(Working on it offline!!!We need more days..)
 - [ ] check picture size 
 - [ ] constrain circle in sketch
 - [ ] check picture quality 

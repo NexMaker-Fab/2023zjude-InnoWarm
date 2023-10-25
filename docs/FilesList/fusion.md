@@ -2,10 +2,10 @@
 
 本次《设计工程学》的课程，主要讲授了Fusion的使用方法。
 
-## 2.1 插件安装过程
+## 2.1 Plugin Installment
 (1) 点击实用程序的附加模块里的Fusion 360 APP store，搜索需要的插件，如gear
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114347.png"  height="300px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-19%20213016.png" >
 </div>
 (2) 选择合适的插件下载（需要登陆账号）
 <div class="center">
@@ -115,7 +115,10 @@
 </div>
 
 
-
 ## 2.3 零件建模图例
 
 <iframe width=640 height=480 src="https://a360.co/48R9Go6" ></frame>
+
+
+
+
