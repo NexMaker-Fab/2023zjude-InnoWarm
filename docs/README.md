@@ -19,13 +19,13 @@
 - [x] git use word not picture
 - [x] how to collaborator team
 
-    
-2. CAD中
-    1.check picture size 
-    2.constrain circle in sketch
-    3.check picture quality 
-    4.show the command detail for "从实体创建零件", "环形阵列" and others,
-    4.checking the assessment again
+2. CAD
+- [ ] check picture size 
+- [ ] constrain circle in sketch
+- [ ] check picture quality 
+- [ ] show the command detail for "从实体创建零件", "环形阵列" and others,
+- [ ] checking the assessment again
 
 3. Arduino
+
 
