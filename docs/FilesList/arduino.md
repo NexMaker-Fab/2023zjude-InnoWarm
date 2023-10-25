@@ -1,5 +1,5 @@
 # Arduino
-## 3.1 Open-Source Hardware
+## 3.1 Hardware
 
 **(1)Raspberry Pi**
 
@@ -45,6 +45,6 @@ STM32 is a series of 32-bit ARM Cortex-M microcontrollers launched by STMicroele
 
 STM32 is widely used in industrial control, automation, embedded systems, and the Internet of Things (IoT), among other fields.
 
-## 3.2 Open-Source Project Example
+## 3.2 Example Project
 
-## 3.3 Water Light Program
+## 3.3 Water Light
