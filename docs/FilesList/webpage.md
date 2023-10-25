@@ -168,16 +168,16 @@ The initial version of the video was as follows:
 
 >**Problem**：The video cannot be viewed properly due to the restricted height.
 >
->**Solution**：Set: width="600" height="auto"
+>**Solution**：Set: aspectratio="16:9" width="100%" height="600"
 
-<iframe width="600" height="atuo" 
+<iframe width="100%" height="650" 
 src="//player.bilibili.com/player.html?aid=661274868&bvid=BV1hh4y1a79W&cid=1277112324&p=1" 
 scrolling="no" border="0" frameborder="0" allowfullscreen>
 </iframe>
 
 ```
 {
-<iframe width="600" height="500" src="//player.bilibili.com/player.html?aid=661274868&bvid=BV1hh4y1a79W&cid=1277112324&p=1" scrolling="no" border="0" frameborder="0" allowfullscreen></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=661274868&bvid=BV1hh4y1a79W&cid=1277112324&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
 }
 ``` 
 ## 1.5 Group Invitation
@@ -196,7 +196,7 @@ scrolling="no" border="0" frameborder="0" allowfullscreen>
 
 ## 1.6 Future Enhancements
 
-The interface is simple and the content is thin. In the subsequent lessons, we can refer to different materials and tutorials, and continue to explore more diversified screens and more interesting web interactions~
+The interface is simple and the content is thin. In the subsequent lessons, we can refer to different materials and tutorials, and continue to explore more diversified screens and more interesting web interactions :)
 
 ## 1.7 Reference & Acknowledgment
 

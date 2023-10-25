@@ -48,3 +48,46 @@ STM32 is widely used in industrial control, automation, embedded systems, and th
 ## 3.2 Example Project
 
 ## 3.3 Water Light
+The Water Light consists of a set of LEDs whose brightness changes one after another, and it is inspired by the running lights used in Japanese horse racing. 
+
+In this project, we have the following experimental equipments: Arduino UNO, breadborad, some LEDs, some 220 ohm resistors and some wires.
+
+**(1)Simulation Circuit**
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-24%20194302.png">
+</div>
+
+**(2)Hardware Connect**
+In the actual hardware circuit, we only used 6 resistors and LEDs
+
+<iframe src="//player.bilibili.com/player.html?aid=662503306&bvid=BV1Kh4y1i7xW&cid=1310962757&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
+
+**(3)Arduino IDE Code**
+
+```
+void setup() 
+{
+  // 初始化引脚
+  for (int i = 2; i < 8; i++) {
+    pinMode(i, OUTPUT);
+  }
+}
+
+void loop() 
+{
+  // 主循环
+  for (int i = 2; i < 7; i++) {
+    digitalWrite(i, HIGH);
+    delay(200);
+    digitalWrite(i, LOW);
+    delay(200);
+  }
+  for (int i = 7; i > 2; i--) {
+    digitalWrite(i, HIGH);
+    delay(200);
+    digitalWrite(i, LOW);
+    delay(200);
+  }
+}
+``` 
