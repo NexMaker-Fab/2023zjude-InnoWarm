@@ -145,7 +145,7 @@ In Pic Go, we select the "Github" option of the settings and paste the copied To
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025111355.png" alt="Fig4. Github setting">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025111355.png" height="300px">
   </div>
 </body>
 
