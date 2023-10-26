@@ -24,6 +24,23 @@
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png"  height="300px">
 </div>
 
+## 2.2 Operation Demo Video
+
+Fusion 360附加模块建模视频：
+
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=280081570&bvid=BV1Uc411o72A&cid=1311464501&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+运动仿真模型搭建过程视频：
+
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+AI自动建模过程视频：
+
+<iframe width="560" height="500" src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
 ## 2.2 零件建模过程
 (1) 在zju2023内新建小组文件夹，进入草图，绘制一个中心矩形，长宽都为200mm
 <div class="center">

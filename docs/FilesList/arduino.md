@@ -47,6 +47,19 @@ STM32 is widely used in industrial control, automation, embedded systems, and th
 
 ## 3.2 Example Project
 
+Full video presentation: 
+
+<iframe width="560" height="500" src="https://www.youtube.com/embed/Txcl4hPJX94?si=4RheGpBv1FPVdXJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Key Point:
+
+(1) Use fewer components but get an entertaining toy;
+
+(2) Process is intuitive and easy to understand, and even novices can try it!
+
+
+<a href="https://bit.ly/3paXTLP">Click to get the code</a>
+
 ## 3.3 Water Light
 The Water Light consists of a set of LEDs whose brightness changes one after another, and it is inspired by the running lights used in Japanese horse racing. 
 
@@ -91,3 +104,7 @@ void loop()
   }
 }
 ``` 
+
+## 3.4 Reference 
+www.arduino.cc
+www.nexmaker.com/doc/5arduino
