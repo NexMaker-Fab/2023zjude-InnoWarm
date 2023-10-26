@@ -72,6 +72,13 @@ Listening at http://localhost:3000
   </div>
 </body>
 
+Fold and File Relationship
+<body>
+  <div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231026135710.png" >
+  </div>
+</body>
+
 ## 1.2 Markdown
 When writing the website, we  build the basic framework  by comprehensively studying and referring to the syntax rules and typical cases given by NexMakerLab, ChatGPT, Github and other platforms, and some cases are given below.
 
