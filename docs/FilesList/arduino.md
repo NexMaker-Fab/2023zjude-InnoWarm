@@ -61,6 +61,7 @@ Key Point:
 <a href="https://bit.ly/3paXTLP">Click to get the code</a>
 
 ## 3.3 Water Light
+
 The Water Light consists of a set of LEDs whose brightness changes one after another, and it is inspired by the running lights used in Japanese horse racing. 
 
 In this project, we have the following experimental equipments: Arduino UNO, breadborad, some LEDs, some 220 ohm resistors and some wires.
@@ -106,6 +107,7 @@ void loop()
 ``` 
 
 ## 3.4 Arduino output--'Hello word' and Snake Game
+
 In this section, we begin by using the a LCD display and arduino to display a simple 'helloword' statement. The hardware connections and final results are as follows.
 
 <iframe src="//player.bilibili.com/player.html?aid=620481802&bvid=BV1W84y197WL&cid=1320258345&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
@@ -242,6 +244,7 @@ void loop() {
 ```
 
 ## 3.5 Arduino intput
+
 In this section, we first try a simple distance measurement using an ultrasonic sensor and display the distance in the serial monitor panel of the Arduino IDE. During this process we encountered problems with inaccurate display. After checking this, we found that it was because the values in the code did not correspond to the serial communication in the IDE, and then we fixed the problem.
 
 Then we used an ultrasonic sensor to measure the distance and displayed the distance measurement on the LCD display. The process and results are shown below.
@@ -253,8 +256,8 @@ Then we used an ultrasonic sensor to measure the distance and displayed the dist
 </div>
 
 **(2)Hardware Connect**
-In the actual hardware circuit, we only used a LCDdisplay and an ultrasonic sensor.
 
+In the actual hardware circuit, we only used a LCDdisplay and an ultrasonic sensor.
 
 <iframe src="//player.bilibili.com/player.html?aid=450592435&bvid=BV16j411Y7G9&cid=1323637327&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
 
@@ -315,5 +318,7 @@ void loop()
 ```
 ## 3.6 Reference 
 www.arduino.cc
+
 www.nexmaker.com/doc/5arduino
+
 https://blog.csdn.net/weixin_44996090/article/details/105922780
