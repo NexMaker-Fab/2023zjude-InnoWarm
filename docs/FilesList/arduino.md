@@ -117,7 +117,7 @@ In the actual hardware circuit, we used an LCD display, a joystick and Arduino. 
 
 <iframe src="//player.bilibili.com/player.html?aid=407902575&bvid=BV1xG411X7Kb&cid=1320260598&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
 
-**(3)Arduino IDE Code**
+**(2)Arduino IDE Code**
 ```
 #include <LiquidCrystal.h>
 
