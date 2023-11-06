@@ -105,7 +105,215 @@ void loop()
 }
 ``` 
 
-## 3.4 Reference 
-www.arduino.cc
+## 3.4 Arduino output--'Hello word' and Snake Game
+In this section, we begin by using the a LCD display and arduino to display a simple 'helloword' statement. The hardware connections and final results are as follows.
 
+<iframe src="//player.bilibili.com/player.html?aid=620481802&bvid=BV1W84y197WL&cid=1320258345&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
+
+Then we tried a more interesting and challenging task: making the Snake game. 
+
+**(1)Hardware Connect**
+In the actual hardware circuit, we used an LCD display, a joystick and Arduino. The final presentation is as follows.
+
+<iframe src="//player.bilibili.com/player.html?aid=407902575&bvid=BV1xG411X7Kb&cid=1320260598&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
+
+**(3)Arduino IDE Code**
+```
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+
+// 定义LCD屏幕的尺寸
+const int LCD_COLUMNS = 16;
+const int LCD_ROWS = 2;
+
+// 贪吃蛇变量
+int snakeX = LCD_COLUMNS / 2;
+int snakeY = LCD_ROWS / 2;
+int foodX;
+int foodY;
+int snakeLength = 1;
+int snakeDirectionX = 0;
+int snakeDirectionY = 0;
+
+// 按钮和摇杆引脚
+const int BUTTON_XY_PIN = 8;
+const int JOYSTICK_X_PIN = A0;
+const int JOYSTICK_Y_PIN = A1;
+
+// 按钮和摇杆状态变量
+int buttonXYState = HIGH;
+int lastButtonXYState = HIGH;
+int joystickXValue = 0;
+int joystickYValue = 0;
+
+// 游戏状态变量
+bool gameOver = false;
+
+void setup() {
+  lcd.begin(LCD_COLUMNS, LCD_ROWS);
+  randomSeed(analogRead(0)); // 种子随机数生成器
+
+  // 初始化按钮和摇杆引脚
+  pinMode(BUTTON_XY_PIN, INPUT_PULLUP);
+
+  // 打印初始消息
+  lcd.print("贪吃蛇游戏");
+  lcd.setCursor(0, 1);
+  lcd.print("按下任意按钮");
+}
+
+void generateFood() {
+  foodX = random(0, LCD_COLUMNS);
+  foodY = random(0, LCD_ROWS);
+}
+
+void updateSnake() {
+  snakeX += snakeDirectionX;
+  snakeY += snakeDirectionY;
+
+  // 检查贪吃蛇是否碰到屏幕边缘
+  if (snakeX < 0 || snakeX >= LCD_COLUMNS || snakeY < 0 || snakeY >= LCD_ROWS) {
+    gameOver = true;
+    return;
+  }
+
+  // 检查贪吃蛇是否与食物碰撞
+  if (snakeX == foodX && snakeY == foodY) {
+    snakeLength++;
+    generateFood();
+  }
+}
+
+void drawSnake() {
+  lcd.clear();
+  lcd.setCursor(snakeX, snakeY);
+  lcd.print("#");
+
+  // 打印食物
+  lcd.setCursor(foodX, foodY);
+  lcd.print("*");
+}
+
+void handleInput() {
+  buttonXYState = digitalRead(BUTTON_XY_PIN);
+
+  if (buttonXYState != lastButtonXYState) {
+    if (buttonXYState == LOW) {
+      gameOver = true; // 当按下XY按钮时重新开始游戏
+    }
+    lastButtonXYState = buttonXYState;
+  }
+
+  joystickXValue = analogRead(JOYSTICK_X_PIN);
+  joystickYValue = analogRead(JOYSTICK_Y_PIN);
+
+  // 根据摇杆的X和Y值调整贪吃蛇的移动方向
+  if (joystickXValue < 400) {
+    snakeDirectionX = -1; // 向左移动
+  } else if (joystickXValue > 600) {
+    snakeDirectionX = 1; // 向右移动
+  } else {
+    snakeDirectionX = 0; // 停止水平移动
+  }
+
+  if (joystickYValue < 400) {
+    snakeDirectionY = -1; // 向上移动
+  } else if (joystickYValue > 600) {
+    snakeDirectionY = 1; // 向下移动
+  } else {
+    snakeDirectionY = 0; // 停止垂直移动
+  }
+}
+
+void loop() {
+  if (gameOver) {
+    lcd.clear();
+    lcd.print("game over");
+    return;
+  }
+
+  handleInput();
+  updateSnake();
+  drawSnake();
+
+  delay(200);
+}
+```
+
+## 3.5 Arduino intput
+In this section, we first try a simple distance measurement using an ultrasonic sensor and display the distance in the serial monitor panel of the Arduino IDE. During this process we encountered problems with inaccurate display. After checking this, we found that it was because the values in the code did not correspond to the serial communication in the IDE, and then we fixed the problem.
+
+Then we used an ultrasonic sensor to measure the distance and displayed the distance measurement on the LCD display. The process and results are shown below.
+
+**(1)Simulation Circuit**
+
+<div class="center">
+    <img src="https://img-blog.csdnimg.cn/20200504202432797.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDk5NjA5MA==,size_16,color_FFFFFF,t_70#pic_center">
+</div>
+
+**(2)Hardware Connect**
+In the actual hardware circuit, we only used a LCDdisplay and an ultrasonic sensor.
+
+
+<iframe src="//player.bilibili.com/player.html?aid=450592435&bvid=BV16j411Y7G9&cid=1323637327&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
+
+**(3)Arduino IDE Code**
+
+```
+#include <LiquidCrystal.h>
+
+#define LM35 A0
+#define Trig 8 //引脚Tring 连接 IO D8
+#define Echo 9 //引脚Echo 连接 IO D9
+ 
+float cm; //距离变量
+
+LiquidCrystal lcd(12,11,5,4,3,2);      //构造一个LiquidCrystal的类成员。使用数字IO ，12,11,5,4,3,2
+
+int val = 0;        //存放AD变量值
+float temp = 0;     //存放温度值的10倍
+
+void setup()
+{
+  lcd.begin(16,2);    //初始化LCD1602
+  lcd.print("Welcome to use!");   //液晶显示Welcome to use！
+  delay(1000);        //延时1000ms
+  lcd.clear();        //液晶清屏
+  
+  pinMode(Trig, OUTPUT);
+  pinMode(Echo, INPUT);
+}
+
+void loop()
+{
+  //给Trig发送一个低高低的短时间脉冲,触发测距
+  digitalWrite(Trig, LOW); //给Trig发送一个低电平
+  delayMicroseconds(2);    //等待 2微妙
+  digitalWrite(Trig,HIGH); //给Trig发送一个高电平
+  delayMicroseconds(10);    //等待 10微妙
+  digitalWrite(Trig, LOW); //给Trig发送一个低电平
+  
+  temp = float(pulseIn(Echo, HIGH)); //存储回波等待时间,
+  //pulseIn函数会等待引脚变为HIGH,开始计算时间,再等待变为LOW并停止计时
+  //返回脉冲的长度
+  
+  //声速是:340m/1s 换算成 34000cm / 1000000μs => 34 / 1000
+  //因为发送到接收,实际是相同距离走了2回,所以要除以2
+  //距离(厘米)  =  (回波时间 * (34 / 1000)) / 2
+  //简化后的计算公式为 (回波时间 * 17)/ 1000
+  cm = (temp * 17 )/1000; //把回波时间换算成cm
+  
+  lcd.setCursor(0,0);       //设置液晶开始显示的指针位置
+  lcd.print("Now Distance："); //液晶显示“LM35 temp =”
+  lcd.setCursor(0,1);       //设置液晶开始显示的指针位置，在下一行显示
+  lcd.print(cm);  //液晶显示距离
+  
+  
+  delay(1000);              //延时1000ms
+}
+```
+## 3.6 Reference 
+www.arduino.cc
 www.nexmaker.com/doc/5arduino
+https://blog.csdn.net/weixin_44996090/article/details/105922780
