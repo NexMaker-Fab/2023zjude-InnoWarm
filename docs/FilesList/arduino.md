@@ -73,7 +73,9 @@ In this project, we have the following experimental equipments: Arduino UNO, bre
 </div>
 
 **(2)Hardware Connect**
+
 In the actual hardware circuit, we only used 6 resistors and LEDs
+
 
 <iframe src="//player.bilibili.com/player.html?aid=662503306&bvid=BV1Kh4y1i7xW&cid=1310962757&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
 
@@ -106,7 +108,7 @@ void loop()
 }
 ``` 
 
-## 3.4 Arduino output--'Hello word' and Snake Game
+## 3.4 Arduino output
 
 In this section, we begin by using the a LCD display and arduino to display a simple 'helloword' statement. The hardware connections and final results are as follows.
 
@@ -115,6 +117,7 @@ In this section, we begin by using the a LCD display and arduino to display a si
 Then we tried a more interesting and challenging task: making the Snake game. 
 
 **(1)Hardware Connect**
+
 In the actual hardware circuit, we used an LCD display, a joystick and Arduino. The final presentation is as follows.
 
 <iframe src="//player.bilibili.com/player.html?aid=407902575&bvid=BV1xG411X7Kb&cid=1320260598&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
