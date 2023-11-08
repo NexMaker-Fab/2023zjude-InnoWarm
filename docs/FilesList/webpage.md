@@ -6,33 +6,33 @@ The second session of Design Engineering focused on the steps involved in buildi
 We created a public repository on Github (following pictures are not this web but an example)
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023213201.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023213201.png" width="700px" >
   </div>
 
 Create a new file on the Github web and edit it.
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212722.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212722.png" width="700px" >
   </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212746.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212746.png" width="700px" >
   </div>
 
 After repository had been built, we opened the Github Desktop and find our repository which we wanted to clone to the local disk.
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104307.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104307.png" width="700px" >
   </div>
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104345.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104345.png" width="700px">
   </div>
 
 
 Once the repository has been cloned, we can open and edit it offline.
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104431.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104431.png" width="700px">
   </div>
 
 Finally, with the following steps we can configure and initialize the local environment.
@@ -68,14 +68,14 @@ Listening at http://localhost:3000
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005234205.png" alt="Fig3. Solution">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005234205.png" width="700px">
   </div>
 </body>
 
 Fold and File Relationship
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231026135710.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231026135710.png" width="700px" >
   </div>
 </body>
 
@@ -141,24 +141,24 @@ We adopted a suggestion from Zhihu user <a href="https://zhuanlan.zhihu.com/p/48
 We go to https://github.com/settings/tokens
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215041.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215041.png" width="700px" >
 </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215214.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215214.png" width="700px">
 </div>
 
 In Pic Go, we select the "Github" option of the settings and paste the copied Tokens accordingly.
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025111355.png" height="300px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025111355.png" width="700px">
   </div>
 </body>
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005235451.png" alt="Fig5. blogimage">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005235451.png" width="700px">
   </div>
 </body>
 
@@ -190,15 +190,15 @@ scrolling="no" border="0" frameborder="0" allowfullscreen>
 ## 1.5 Group Invitation
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112242.png">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112242.png" width="700px">
   </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112322.png">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112322.png" width="700px">
   </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112400.png">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112400.png" width="700px">
   </div>
 
 ## 1.6 Future Enhancements
