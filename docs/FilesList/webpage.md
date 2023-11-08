@@ -82,31 +82,7 @@ Fold and File Relationship
 ## 1.2 Markdown
 When writing the website, we  build the basic framework  by comprehensively studying and referring to the syntax rules and typical cases given by NexMakerLab, ChatGPT, Github and other platforms, and some cases are given below.
 
-(1) title/sidebar/search
-
-```
-{
-  <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'InnoWarm',
-      repo: '',
-      loadSidebar: true,
-      loadNavbar: true,
-      subMaxLevel: 2,
-      search: {
-        paths: 'auto',
-        placeholder: '搜索',
-        noData: '无结果',
-        depth: 4,
-      },
-    }
-
-}
-``` 
-
-(2) header
+(1) header
 
 ```
 {
@@ -115,6 +91,10 @@ When writing the website, we  build the basic framework  by comprehensively stud
   ### Third-Level Title
 }
 ``` 
+Display results:
+# First-Level Title
+## Second-Level Title
+## Third-Level Title
 
 (3) picture
 
@@ -125,7 +105,10 @@ When writing the website, we  build the basic framework  by comprehensively stud
   </div>
 }
 ``` 
-
+Display results:
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png" alt="Fig1. Install docsify">
+  </div>
 (4) link
 
 ```
@@ -197,8 +180,9 @@ scrolling="no" border="0" frameborder="0" allowfullscreen>
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112322.png" width="700px">
   </div>
 
+In order to protect the safety of the project, team members are given permission to write only.
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112400.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231108225447.png" width="700px">
   </div>
 
 ## 1.6 Future Enhancements
