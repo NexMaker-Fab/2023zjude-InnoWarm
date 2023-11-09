@@ -116,13 +116,18 @@ In this section, we begin by using the a LCD display and arduino to display a si
 
 Then we tried a more interesting and challenging task: making the Snake game. 
 
-**(1)Hardware Connect**
+**(1)Simulation Circuit**
+
+<div class="center">
+![](模拟电路图.jpg)
+
+**(2)Hardware Connect**
 
 In the actual hardware circuit, we used an LCD display, a joystick and Arduino. The final presentation is as follows.
 
 <iframe src="//player.bilibili.com/player.html?aid=407902575&bvid=BV1xG411X7Kb&cid=1320260598&p=1" aspectratio="16:9" width="100%" height="600"> </iframe>
 
-**(2)Arduino IDE Code**
+**(3)Arduino IDE Code**
 ```
 #include <LiquidCrystal.h>
 
