@@ -119,7 +119,8 @@ Then we tried a more interesting and challenging task: making the Snake game.
 **(1)Simulation Circuit**
 
 <div class="center">
-![](模拟电路图.jpg)
+    <img src="https://github.com/NexMaker-Fab/2023zjude-InnoWarm/blob/main/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%9B%BE.jpg"  width="250"height="220">
+</div>
 
 **(2)Hardware Connect**
 
