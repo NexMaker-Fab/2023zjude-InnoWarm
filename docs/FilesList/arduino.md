@@ -119,7 +119,7 @@ Then we tried a more interesting and challenging task: making the Snake game.
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/NexMaker-Fab/2023zjude-InnoWarm/blob/main/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%9B%BE.jpg"  width="250"height="220">
+    <img src="https://github.com/Mia1210-my/MY/blob/main/img/thinkercad1.jpg"  width="250"height="220">
 </div>
 
 **(2)Hardware Connect**
@@ -261,7 +261,7 @@ Then we used an ultrasonic sensor to measure the distance and displayed the dist
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://img-blog.csdnimg.cn/20200504202432797.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDk5NjA5MA==,size_16,color_FFFFFF,t_70#pic_center">
+    <img src="https://github.com/Mia1210-my/MY/blob/main/img/sensor.png"  width="250"height="220">
 </div>
 
 **(2)Hardware Connect**
