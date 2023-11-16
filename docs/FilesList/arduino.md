@@ -69,7 +69,7 @@ In this project, we have the following experimental equipments: Arduino UNO, bre
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-24%20194302.png"  width="250"height="220">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-24%20194302.png"  width="300"height="280">
 </div>
 
 **(2)Hardware Connect**
@@ -119,7 +119,7 @@ Then we tried a more interesting and challenging task: making the Snake game.
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/blob/main/img/thinkercad1.jpg"  width="250"height="220">
+    <img src="https://github.com/Mia1210-my/MY/blob/main/img/thinkercad1.jpg"  width="300"height="280">
 </div>
 
 **(2)Hardware Connect**
@@ -261,7 +261,7 @@ Then we used an ultrasonic sensor to measure the distance and displayed the dist
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/blob/main/img/sensor.png"  width="250"height="220">
+    <img src="https://github.com/Mia1210-my/MY/blob/main/img/sensor.png"  width="300"height="280">
 </div>
 
 **(2)Hardware Connect**
