@@ -4,54 +4,6 @@
 ## 软件安装
 
 ## 零件建模
-
-## 零件建模图例
-
-## 仿真视频
-
-运动仿真模型搭建过程视频：
-
-<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-## 插件安装及使用
-
-**Plugin Installment**
-(1) 点击实用程序的附加模块里的Fusion 360 APP store，搜索需要的插件，如gear
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-19%20213016.png" >
-</div>
-(2) 选择合适的插件下载（需要登陆账号）
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114416.png"  height="300px">
-</div>
-(3) 双击运行安装包
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114443.png"  height="300px">
-</div>
-(4) 安装完成后，在脚本和附加模块中就有了安装的插件
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114556.png"  height="300px">
-</div>
-(5) 在页面上出现图标，点击运行即可按照需求创建齿轮
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png"  height="300px">
-</div>
-
-**Fusion 360附加模块建模视频：**
-
-<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=280081570&bvid=BV1Uc411o72A&cid=1311464501&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 自动建模示例
-AI自动建模过程视频：
-
-<iframe width="560" height="500" src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-## other software
-
-
-## 2.2 零件建模过程
 (1) 在zju2023内新建小组文件夹，进入草图，绘制一个中心矩形，长宽都为200mm
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018233509.png"  height="300px">
@@ -141,11 +93,51 @@ AI自动建模过程视频：
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019001812.png"  height="300px">
 </div>
 
-
-## 2.3 零件建模图例
+## 零件建模图例
 
 <iframe width=640 height=480 src="https://a360.co/48R9Go6" ></frame>
 
+## 仿真视频
 
+运动仿真模型搭建过程视频：
+
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## 插件安装及使用
+
+**Plugin Installment**
+(1) 点击实用程序的附加模块里的Fusion 360 APP store，搜索需要的插件，如gear
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-19%20213016.png" >
+</div>
+(2) 选择合适的插件下载（需要登陆账号）
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114416.png"  height="300px">
+</div>
+(3) 双击运行安装包
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114443.png"  height="300px">
+</div>
+(4) 安装完成后，在脚本和附加模块中就有了安装的插件
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114556.png"  height="300px">
+</div>
+(5) 在页面上出现图标，点击运行即可按照需求创建齿轮
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png"  height="300px">
+</div>
+
+**Fusion 360附加模块建模视频：**
+
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=280081570&bvid=BV1Uc411o72A&cid=1311464501&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## 自动建模示例
+AI自动建模过程视频：
+
+<iframe width="560" height="500" src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## other software
 
 
