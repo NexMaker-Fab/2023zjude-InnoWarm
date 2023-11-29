@@ -11,19 +11,19 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 ## 零件建模
 (1) 在zju2023内新建小组文件夹，进入草图，绘制一个中心矩形，长宽都为200mm
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018233509.png"  width="400px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018233509.png"  wstyle="width:65%;">
 </div>
 (2) 顶部视图完成中心矩形汇总后，倒四次圆角，得到圆角矩形，圆角40mm
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019001118.png"  width="400px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019001118.png"  style="width:70%;">
 </div>
 (3) 草图中绘制一个圆，准备扫掠
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018234643.png" width="400px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018234643.png" style="width:60%;">
 </div>
 (4) 通过绘制的圆角矩形和园进行扫掠
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018235205.png"  width="400px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231018235205.png"  width="600px">
 </div>
 (5) 从实体创建零件（后续部分都需要转化为零件，或者一开始就设置为零件），然后创建草图圆管
 <div class="center">
