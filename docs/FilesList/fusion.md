@@ -2,7 +2,9 @@
 
 Fusion 360 is a comprehensive design software developed by Autodesk, originally known as "Inventor Fusion" when it was first introduced in 2009. It provides a powerful set of tools and features for 3D modeling, CAD (Computer-Aided Design), CAM (Computer-Aided Manufacturing), CAE (Computer-Aided Engineering), as well as collaboration and data management.
 The design philosophy of Fusion 360 is to integrate design, engineering, and manufacturing into a unified platform, offering users a holistic design and manufacturing solution. It features an intuitive user interface, cloud storage, and collaboration capabilities, assisting designers, engineers, and manufacturers in creative design, product development, and optimization of manufacturing processes.
+
 With Fusion 360, users can perform parametric modeling, assembly design, surface modeling, rendering, animation, and more. It also provides powerful simulation and analysis tools to validate design performance and behavior. Additionally, Fusion 360 supports integration with other design software, enabling collaboration and data exchange with professionals from different fields.
+
 In summary, Fusion 360 is a powerful design software aimed at providing users with a comprehensive design, engineering, and manufacturing solution. Its design philosophy revolves around integrating various stages of the design and manufacturing process, offering an intuitive interface, and facilitating cloud-based collaboration. Through Fusion 360, users can achieve creative design, product development, and optimization of manufacturing processes.。
 
 ## Part Modeling
@@ -99,6 +101,8 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 
 <if ramestyle="width:70%;"  src="https://a360.co/48R9Go6" ></frame>
 
+## Plugin Installation and Usage
+
 ## Simulation Video
 
 Motion simulation model building process video:
@@ -106,29 +110,28 @@ Motion simulation model building process video:
 <iframe style="width:70%;" height=500 src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Plugin Installation and Usage
-
 **Plugin Installment**
 (1) Click on the Fusion 360 APP store in the Add-ons section of the utility and search for the desired plug-in, such as gear
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-19%20213016.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-19%20213016.png" style="width:70%;">
 </div>
 (2) Select the appropriate plug-in to download (login account required)
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114416.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114416.png" style="width:70%;">
 </div>
 (3) Double-click to run the installation package
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114443.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114443.png" style="width:70%;">
 </div>
 (4) Once the installation is complete, the installed plugin is available in the Scripts and Add-ons module
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114556.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114556.png" style="width:70%;">
 </div>
 (5) An icon appears on the page, click Run to create the gears as required.
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
 </div>
+
 
 **Fusion 360 add-on module modeling video:**
 
