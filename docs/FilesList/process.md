@@ -1,6 +1,12 @@
 # Processing
 ## 3.1  introduction
 
+Processing is a free graphical library and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context.
+
+Processing uses the Java language, with additional simplifications such as additional classes and aliased mathematical functions and operations. It also provides a graphical user interface for simplifying the compilation and execution stage.
+
+The Processing language and IDE have been the precursor to other projects including Arduino and Wiring.
+
 **(1)p5.js**
 
 <div class="center">
@@ -35,9 +41,9 @@ Similar to OpenFrameworks, Cinder is a creative programming library for C++ that
 </div>
 
 This is a visual programming tool for creative programming and visual design. It uses a graphical interface to create and edit nodes, allowing users to build complex art projects by connecting nodes.
-## 3.2 Demo
+## 3.2 Demo(use mouse or keyboard to interactive)
 
-**(4)Processing code**
+**(1)Processing code**
 
 ```
 ArrayList<Particle> particles;
@@ -108,3 +114,12 @@ class Particle {
   }
 }
 ```
+## 3.3 Demo
+
+## 3.4 IOT
+
+## 3.5 GUI
+
+## 3.6 Reference
+
+https://en.wikipedia.org/wiki/Processing
