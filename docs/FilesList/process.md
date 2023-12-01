@@ -23,7 +23,7 @@ This is a C++ creative programming toolkit for visual arts, graphics and audio p
 **(3)Cinder**
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/cinder.png"   width="300" height="280">
+    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/cinder.png"   width="300" height="200">
 </div>
 
 Similar to OpenFrameworks, Cinder is a creative programming library for C++ that specializes in graphics and audio applications. It provides a range of tools and features for developing creative art projects.
