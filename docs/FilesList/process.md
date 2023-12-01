@@ -124,7 +124,7 @@ When the mouse is clicked, traces appear on the screen to generate interactions�
 ## 3.3 Demo
 
 ## 3.4 IOT
-。。。
+。。。。
 
 ## 3.5 GUI
 
