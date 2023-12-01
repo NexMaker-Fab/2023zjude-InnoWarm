@@ -114,6 +114,7 @@ class Particle {
   }
 }
 ```
+
 **(2)Demonstration**
 
 When the mouse is clicked, traces appear on the screen to generate interactions：
