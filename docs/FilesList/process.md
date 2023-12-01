@@ -119,7 +119,7 @@ class Particle {
 
 When the mouse is clicked, traces appear on the screen to generate interactions：
 
-<iframe style="width:70%;" height=500 src="https://www.bilibili.com/video/BV1hH4y1176L/?vd_source=2401c15cc3a81cfb2753e3ea23639e6a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:70%;" height=500 src="<iframe src="//player.bilibili.com/player.html?aid=964094838&bvid=BV1hH4y1176L&cid=1350323084&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3.3 Demo
 
