@@ -122,7 +122,6 @@ When the mouse is clicked, traces appear on the screen to generate interactions�
 <iframe src="//player.bilibili.com/player.html?aid=964094838&bvid=BV1hH4y1176L&cid=1350323084&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 3.3 Demo
-。。。
 
 ## 3.4 IOT
 。。。
