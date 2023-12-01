@@ -23,7 +23,7 @@ This is a C++ creative programming toolkit for visual arts, graphics and audio p
 **(3)Cinder**
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/cinder.png"   width="300" height="200">
+    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/cinder.png"   width="300" height="140">
 </div>
 
 Similar to OpenFrameworks, Cinder is a creative programming library for C++ that specializes in graphics and audio applications. It provides a range of tools and features for developing creative art projects.
@@ -35,3 +35,76 @@ Similar to OpenFrameworks, Cinder is a creative programming library for C++ that
 </div>
 
 This is a visual programming tool for creative programming and visual design. It uses a graphical interface to create and edit nodes, allowing users to build complex art projects by connecting nodes.
+## 3.2 Demo
+
+**(4)Processing code**
+
+```
+ArrayList<Particle> particles;
+
+void setup() {
+  size(800, 600);
+  particles = new ArrayList<Particle>();
+}
+
+void draw() {
+  background(255);
+  
+  if (mousePressed) {
+    float mY = map(mouseY, 0, height, 1, -1);
+    PVector force = new PVector(random(-0.05, 0.05), mY);
+    particles.add(new Particle(mouseX, mouseY, force));
+  }
+  
+  for (int i = particles.size()-1; i >= 0; i--) {
+    Particle p = particles.get(i);
+    p.update();
+    p.display();
+    if (p.isDead()) {
+      particles.remove(i);
+    }
+  }
+}
+
+class Particle {
+  PVector acceleration;
+  PVector velocity;
+  PVector position;
+  float lifespan;
+  float radius;
+  color col;
+  
+  Particle(float x, float y, PVector force) {
+    acceleration = new PVector(0, 1);
+    velocity = new PVector(random(-1, 1), random(-1, 1));
+    lifespan = 255;
+    position = new PVector(x, y);
+    radius = random(10, 50);
+    col = color(255, random(200), 0);
+    velocity.add(force);
+  }
+  
+  void applyForce() {
+    acceleration.add(velocity);
+  }
+  
+  void update() {
+    velocity.add(acceleration);
+    position.add(velocity);
+    lifespan -= 5.0;
+    acceleration = new PVector(0, 0);
+    col = color(red(col), green(col), blue(col), (int)lifespan);
+    radius -= 1;
+  }
+  
+  void display() {
+    noStroke();
+    fill(col);
+    ellipse(position.x, position.y, radius, radius);
+  }
+  
+  boolean isDead() {
+    return lifespan < 0.0;
+  }
+}
+```
