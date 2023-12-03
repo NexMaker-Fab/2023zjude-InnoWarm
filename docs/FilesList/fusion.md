@@ -146,45 +146,38 @@ ZWSOFT（中望） CAD is a professional engineering modeling software independe
 
 ZWSOFT CAD provides powerful modeling, analysis, and design functions, assisting engineers in precise 3D modeling and simulation analysis. It features efficient algorithm optimization and high versatility, including batch printing, sheet sets, dynamic blocks, PDF import, and lasso selection. The software operates at high speed, offers comprehensive functionality, and has a high level of intelligence, enabling designers to rapidly complete complex design tasks.
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+    <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD6.png" style="width:70%;">
 </div>
-
 
 a.Main Features
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/CAD7.png" style="width:70%;">
 </div>
 
 b.Functionality
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
-</div>
-
-c.New Features
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
-</div>
-
-(2) ZWSOFT CAD
-ZWSOFT（中望） CAD is a professional engineering modeling software independently developed in China, widely used in fields such as architecture, mechanical engineering, and power industry. It is based on an independent kernel and is a 2D CAD platform that is fully compatible with the DWG format. It extensively supports mainstream industry applications and customized development of user-specific functions. Since its launch in 2002, ZWSOFT CAD has helped users in various industries such as architecture, surveying, urban planning, mechanical manufacturing, electronics, and power achieve efficient design and domestic innovation.
-
-ZWSOFT CAD provides powerful modeling, analysis, and design functions, assisting engineers in precise 3D modeling and simulation analysis. It features efficient algorithm optimization and high versatility, including batch printing, sheet sets, dynamic blocks, PDF import, and lasso selection. The software operates at high speed, offers comprehensive functionality, and has a high level of intelligence, enabling designers to rapidly complete complex design tasks.
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+    <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD2.jpg" style="width:70%;">
 </div>
 
 
-a.Main Features
+
+(2) Yaochuang CAD
+Yaochuang(尧创) CAD is a professional drawing software with complete independent intellectual property rights. It is fully compatible with AutoCAD, offering powerful functionality and cost-effectiveness, and has been widely used in industries such as mechanical engineering, electronics, chemical engineering, architecture, shipbuilding, and aviation.
+
+Yaochuang Mechanical CAD is a CAD product specifically developed to meet the drawing needs of the mechanical and complete equipment manufacturing industry. It not only includes the powerful drawing, annotation, and editing functions of the AutoCAD platform software but also provides practical and professional extensions specifically tailored to the mechanical industry. It features an efficient drawing mode with quick coordinate input.
+
+Yaochuang CAD V10 is the flagship product of Yaochuang CAD in 2019. Compared to previous versions, it significantly improves the performance of the product, supporting fast and smooth editing of large and extra-large drawings. It also provides comprehensive support for dimension and entity associations. The newly added enterprise resource library functionality enables companies to independently establish their own libraries and material databases.
+
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+    <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD3.png" style="width:70%;">
 </div>
 
-b.Functionality
+a.Different Version
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+    <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD4.jpg" style="width:70%;">
 </div>
 
-c.New Features
+b.Basic Functions
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+    <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD5.png" style="width:70%;">
 </div>
