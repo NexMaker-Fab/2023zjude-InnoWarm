@@ -113,7 +113,6 @@ Motion simulation model building process video:
 **Plugin Installment**
 (1) Click on the Fusion 360 APP store in the Add-ons section of the utility and search for the desired plug-in, such as gear
 <div class="center">
-<<<<<<< HEAD
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/a1.png"  style="width:70%;">
 </div>
 (2) Select the appropriate plug-in to download (login account required)
@@ -143,8 +142,6 @@ AI automated modeling process video:
 
 <iframe style="width:70%;" height=500 src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-<<<<<<< HEAD
 ## Other Software
 
 In the realm of 3D modeling and Computer-Aided Design (CAD), SolidWorks, AutoCAD, and Rhino stand out as powerful tools as Fusion360 catering to diverse design needs. This blog post aims to provide an in-depth exploration of each software, outlining their distinctive features, applications, and user interfaces.
