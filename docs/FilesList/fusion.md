@@ -92,10 +92,7 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019001851.png"  style="width:70%;">
 </div>
-(21) 最终在装配时系统多次崩溃，故存在一定的欠缺，暂未找到解决该问题的办法。
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019001812.png"  style="width:70%;">
-</div>
+
 
 ## 零件建模图例
 
@@ -144,3 +141,50 @@ AI automated modeling process video:
 
 
 ## other software
+(1) ZWSOFT CAD
+ZWSOFT（中望） CAD is a professional engineering modeling software independently developed in China, widely used in fields such as architecture, mechanical engineering, and power industry. It is based on an independent kernel and is a 2D CAD platform that is fully compatible with the DWG format. It extensively supports mainstream industry applications and customized development of user-specific functions. Since its launch in 2002, ZWSOFT CAD has helped users in various industries such as architecture, surveying, urban planning, mechanical manufacturing, electronics, and power achieve efficient design and domestic innovation.
+
+ZWSOFT CAD provides powerful modeling, analysis, and design functions, assisting engineers in precise 3D modeling and simulation analysis. It features efficient algorithm optimization and high versatility, including batch printing, sheet sets, dynamic blocks, PDF import, and lasso selection. The software operates at high speed, offers comprehensive functionality, and has a high level of intelligence, enabling designers to rapidly complete complex design tasks.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+
+a.Main Features
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+b.Functionality
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+c.New Features
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+(2) ZWSOFT CAD
+ZWSOFT（中望） CAD is a professional engineering modeling software independently developed in China, widely used in fields such as architecture, mechanical engineering, and power industry. It is based on an independent kernel and is a 2D CAD platform that is fully compatible with the DWG format. It extensively supports mainstream industry applications and customized development of user-specific functions. Since its launch in 2002, ZWSOFT CAD has helped users in various industries such as architecture, surveying, urban planning, mechanical manufacturing, electronics, and power achieve efficient design and domestic innovation.
+
+ZWSOFT CAD provides powerful modeling, analysis, and design functions, assisting engineers in precise 3D modeling and simulation analysis. It features efficient algorithm optimization and high versatility, including batch printing, sheet sets, dynamic blocks, PDF import, and lasso selection. The software operates at high speed, offers comprehensive functionality, and has a high level of intelligence, enabling designers to rapidly complete complex design tasks.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+
+a.Main Features
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+b.Functionality
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
+
+c.New Features
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png" style="width:70%;">
+</div>
