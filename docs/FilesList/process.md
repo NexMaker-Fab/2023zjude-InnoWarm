@@ -10,7 +10,7 @@ The Processing language and IDE have been the precursor to other projects includ
 **(1)p5.js**
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/p5js.jpg"  width="300"height="280">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/p5js.jpg"  width="300"height="280">
 </div>
 
 This is a JavaScript-based creative programming library focused on art and visualization. Its syntax is very similar to Processing, but it is web-based and can be used to create interactive web works.
@@ -20,7 +20,7 @@ This is a JavaScript-based creative programming library focused on art and visua
 **(2)OpenFrameworks**
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/of.png"  width="300" height="300">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/of.png"  width="300" height="300">
 </div>
 
 This is a C++ creative programming toolkit for visual arts, graphics and audio processing. It provides a rich library that allows users to explore and create a variety of creative projects.
@@ -29,7 +29,7 @@ This is a C++ creative programming toolkit for visual arts, graphics and audio p
 **(3)Cinder**
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/cinder.png"   width="300" height="140">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/cinder.png"   width="300" height="140">
 </div>
 
 Similar to OpenFrameworks, Cinder is a creative programming library for C++ that specializes in graphics and audio applications. It provides a range of tools and features for developing creative art projects.
@@ -37,7 +37,7 @@ Similar to OpenFrameworks, Cinder is a creative programming library for C++ that
 **(4)vvvv**
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/blob/main/IMG/vvvv.jpg"  width="250"height="220">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/vvvv.jpg"  width="250"height="220">
 </div>
 
 This is a visual programming tool for creative programming and visual design. It uses a graphical interface to create and edit nodes, allowing users to build complex art projects by connecting nodes.
