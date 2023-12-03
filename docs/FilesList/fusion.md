@@ -111,23 +111,23 @@ Motion simulation model building process video:
 **Plugin Installment**
 (1) Click on the Fusion 360 APP store in the Add-ons section of the utility and search for the desired plug-in, such as gear
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-19%20213016.png" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a1.png"  style="width:70%;">
 </div>
 (2) Select the appropriate plug-in to download (login account required)
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114416.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a2.png"  style="width:70%;">
 </div>
 (3) Double-click to run the installation package
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114443.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a3.png"  style="width:70%;">
 </div>
 (4) Once the installation is complete, the installed plugin is available in the Scripts and Add-ons module
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114556.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a4.png"  style="width:70%;">
 </div>
 (5) An icon appears on the page, click Run to create the gears as required.
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231019114655.png"  style="width:70%;">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a5.png"  style="width:70%;">
 </div>
 
 **Fusion 360 add-on module modeling video:**
@@ -140,4 +140,50 @@ AI automated modeling process video:
 <iframe style="width:70%;" height=500 src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## other software
+## Other Software
+
+In the realm of 3D modeling and Computer-Aided Design (CAD), SolidWorks, AutoCAD, and Rhino stand out as powerful tools as Fusion360 catering to diverse design needs. This blog post aims to provide an in-depth exploration of each software, outlining their distinctive features, applications, and user interfaces.
+### SolidWorks:
+
+**Key Features:**
+Purpose: Primarily designed for mechanical engineering and product design, SolidWorks excels as a parametric 3D modeling software.
+
+Modeling Approach: Utilizes feature-based modeling, breaking down designs into fundamental features such as holes, protrusions, and cuts to construct models.
+
+User Interface: Boasting an intuitive interface, SolidWorks facilitates easy learning and usage.
+
+Assembly and Simulation: Supports modeling and simulation of complex assemblies, enabling structural and fluid dynamics analysis.
+
+**Applications:**Mechanical Design, Product Design, Manufacturing Engineering
+
+### AutoCAD:
+
+**Key Features:**
+
+Purpose: AutoCAD is a versatile CAD software widely employed in architecture, civil engineering, electrical design, and more.
+
+Modeling Approach: Primarily employs solid-based 3D modeling while also supporting 2D drafting.
+
+User Interface: Offers a combination of command-line and graphical user interface, empowering users in 2D graphic drafting.
+
+Customization: Highly customizable, allowing users to script their commands and develop plugins.
+
+**Applications:**Architectural Design, Civil Engineering, Electrical Design
+
+### Rhino:
+
+**Key Features:**
+
+Purpose: Rhino is a flexible 3D modeling software applicable across various domains, including product design, architectural design, and jewelry design.
+
+Modeling Approach: Utilizes free-form modeling methods, supporting Non-Uniform Rational B-Splines (NURBS) for curve and surface modeling.
+
+User Interface: Rhino features a user-friendly interface, supports real-time rendering, and provides robust rendering and animation tools.
+
+Plugin Support: Extensive support for third-party plugins, allowing users to extend the software's capabilities.
+
+**Applications:** Product Design, Architectural Design, Industrial Design
+
+### Summarized:
+
+The choice among Fusion360, SolidWorks, AutoCAD, and Rhino depends on specific project requirements and future career aspirations. Each software has its strengths, and professionals may find value in mastering multiple tools throughout their careers.
