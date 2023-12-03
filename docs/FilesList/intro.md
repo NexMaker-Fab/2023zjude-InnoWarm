@@ -1,6 +1,6 @@
 # InnoWarm
 
-我们是**InnoWarm**，团队由六位工业设计学生组成。我们期待用创造力和激情，将设计与用户的需求相融合，为用户带来**独特而温暖**的设计体验。
+We are **InnoWarm**, a team of six industrial design students. With creativity and passion, we look forward to blending design with the needs of users to bring them a **unique and warm** design experience.
 
 (成员按姓氏首字母顺序)
 
