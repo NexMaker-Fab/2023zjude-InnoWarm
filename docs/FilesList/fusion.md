@@ -108,7 +108,7 @@ Motion simulation model building process video:
 
 
 **Plugin Installment**
-(1) Click on the Fusion 360 APP store in the Add-ons section of the utility and search for the desired plug-in, such as gear
+(1) Click on the <a href="https://www.autodesk.com/fusionappstore/">Fusion 360 APP store</a> in the Add-ons section of the utility and search for the desired plug-in, such as gear
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/a1.png"  style="width:70%;">
 </div>
