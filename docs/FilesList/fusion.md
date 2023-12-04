@@ -108,6 +108,7 @@ Motion simulation model building process video:
 
 
 **Plugin Installment**
+
 (1) Click on the <a href="https://www.autodesk.com/fusionappstore/">Fusion 360 APP store</a> in the Add-ons section of the utility and search for the desired plug-in, such as gear
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/a1.png"  style="width:70%;">
@@ -140,7 +141,7 @@ AI automated modeling process video:
 <iframe style="width:70%;" height=500 src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Other Software
-(1) ZWSOFT CAD
+(1) <a href="https://www.zwcad.com/">ZWSOFT CAD</a>
 ZWSOFT（中望） CAD is a professional engineering modeling software independently developed in China, widely used in fields such as architecture, mechanical engineering, and power industry. It is based on an independent kernel and is a 2D CAD platform that is fully compatible with the DWG format. It extensively supports mainstream industry applications and customized development of user-specific functions. Since its launch in 2002, ZWSOFT CAD has helped users in various industries such as architecture, surveying, urban planning, mechanical manufacturing, electronics, and power achieve efficient design and domestic innovation.
 
 ZWSOFT CAD provides powerful modeling, analysis, and design functions, assisting engineers in precise 3D modeling and simulation analysis. It features efficient algorithm optimization and high versatility, including batch printing, sheet sets, dynamic blocks, PDF import, and lasso selection. The software operates at high speed, offers comprehensive functionality, and has a high level of intelligence, enabling designers to rapidly complete complex design tasks.
@@ -159,7 +160,7 @@ b.Functionality
 </div>
 
 
-(2) Yaochuang CAD
+(2) <a href="https://www.yaocsoft.com/index.html">Yaochuang CAD</a>
 Yaochuang(尧创) CAD is a professional drawing software with complete independent intellectual property rights. It is fully compatible with AutoCAD, offering powerful functionality and cost-effectiveness, and has been widely used in industries such as mechanical engineering, electronics, chemical engineering, architecture, shipbuilding, and aviation.
 
 Yaochuang Mechanical CAD is a CAD product specifically developed to meet the drawing needs of the mechanical and complete equipment manufacturing industry. It not only includes the powerful drawing, annotation, and editing functions of the AutoCAD platform software but also provides practical and professional extensions specifically tailored to the mechanical industry. It features an efficient drawing mode with quick coordinate input.
