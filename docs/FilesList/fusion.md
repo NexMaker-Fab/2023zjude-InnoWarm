@@ -8,87 +8,87 @@ With Fusion 360, users can perform parametric modeling, assembly design, surface
 In summary, Fusion 360 is a powerful design software aimed at providing users with a comprehensive design, engineering, and manufacturing solution. Its design philosophy revolves around integrating various stages of the design and manufacturing process, offering an intuitive interface, and facilitating cloud-based collaboration. Through Fusion 360, users can achieve creative design, product development, and optimization of manufacturing processes.。
 
 ## Part Modeling
-(1) 在zju2023内新建小组文件夹，进入草图，绘制一个中心矩形，长宽都为200mm
+(1) Create a new group folder within zju2023, enter the sketch, and draw a central rectangle with dimensions of 200mm for both length and width. 
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/1.png"  style="width:70%;">
 </div>
-(2) 顶部视图完成中心矩形汇总后，倒四次圆角，得到圆角矩形，圆角40mm
+(2) After completing the central rectangle in the top view, round the corners four times to obtain a rounded rectangle with a corner radius of 40mm.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/2.png"  style="width:70%;">
 </div>
-(3) 草图中绘制一个圆，准备扫掠
+(3) In the sketch, draw a circle in preparation for a sweep.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/3.png" style="width:70%;">
 </div>
-(4) 通过绘制的圆角矩形和园进行扫掠
+(4) Perform a sweep operation using the drawn rounded rectangle and circle.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/4.png"  style="width:70%;">
 </div>
-(5) 从实体创建零件（后续部分都需要转化为零件，或者一开始就设置为零件），然后创建草图圆管
+(5) Create a part from the solid entities (subsequent parts should also be created or set as parts from the beginning), and then create a sketch for a cylindrical pipe.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/5.png" style="width:70%;">
 </div>
-环形阵列得到四个相同的部分，再完成一个圆和一条垂直直线的绘制
+(6) Create an array of four identical parts in a circular pattern, and then complete the drawing of a circle and a vertical line.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/6.png"  style="width:70%;">
 </div>
-(6) 移动复制圆，再用扫掠的方法得到圆环
+(7) Move and copy the circle, then use the sweep method to create a torus (ring-shaped object).
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/7.png"  style="width:70%;">
 </div>
-(7) 移动复制得到另一个圆环，再绘制轮廓线
+(8) Move and copy the torus to create another one, then draw the contour lines.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/8.png"  style="width:70%;">
 </div>
-(8) 挤出后剪切掉圆环的一部分
+(9) After extruding, cut off a portion of the torus.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/9.png"  style="width:70%;">
 </div>
-(9) 圆、直线、剪切命令绘制跑道圆，拉伸得到一个零件
+(10) Use the circle, line, and trim commands to draw a circular track, then extrude it to create a part.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/10.png"  style="width:70%;">
 </div>
-(10) 绘制两个圆，用于剪切
+(11) Draw two circles for the purpose of performing a cut.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/11.png"  style="width:70%;">
 </div>
-(11) 拉伸后剪切得到下图，草图生成矩形后剪切得到下图
+(12) After extruding and performing the cut operation, the resulting image is obtained. Similarly, after generating a rectangle in the sketch and performing the cut operation, the resulting image is obtained.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/12.png"  style="width:70%;">
 </div>
-(12) 环形阵列得到下图
+(13) The circular array produces the image shown below.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/13.png"  style="width:70%;">
 </div>
-(13) 绘制圆柱，再做一个圆柱并合并
+(14) Draw a cylinder, then create another cylinder and merge them together.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/14.png"  style="width:70%;">
 </div>
-(14) 绘制草图后挤出
+(15) After sketching, extrude the geometry.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/14-1.png"  style="width:70%;">
 </div>
-(15) 通过倒角和圆柱得到下图
+(16) Obtain the image shown below by applying fillets and adding cylinders.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/15.png"  style="width:70%;">
 </div>
-(16) 通过草图挤出得到下图，并绘制了一个圆柱减除部分零件
+(17) Obtain the image shown below by extruding the sketch, and create a cylindrical subtractive component.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/16.png"  style="width:70%;">
 </div>
-(17) 绘制一个圆柱、一个圆管，两者可以组成一个伸缩结构
+(18) Draw a cylinder and a cylindrical pipe, which can be combined to form an expandable structure.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/17.png"  style="width:70%;">
 </div>
-(18) 人工智能的部件生成（生成效果一般，最终未采用）
+(19) Artificial Intelligence Component Generation (Generated results were unsatisfactory and ultimately not adopted).
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/18.png"  style="width:70%;">
 </div>
-(19) 对细节进行补充
+(20) Add details.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/19.png"  style="width:70%;">
 </div>
-(20) 倒圆角并且选择了材质方便观察
+(21) The corners are rounded and the material is selected for easy observation.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20.png"  style="width:70%;">
 </div>
@@ -98,7 +98,7 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 
 <if ramestyle="width:70%;"  src="https://a360.co/48R9Go6" ></frame>
 
-## Plugin Installation and Usage
+
 
 ## Simulation Video
 
@@ -106,6 +106,8 @@ Motion simulation model building process video:
 
 <iframe style="width:70%;" height=500 src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+## Plugin Installation and Usage
 
 **Plugin Installment**
 
@@ -150,12 +152,12 @@ ZWSOFT CAD provides powerful modeling, analysis, and design functions, assisting
     <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD6.png" style="width:70%;">
 </div>
 
-a.Main Features
+**a.Main Features**
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/CAD7.png" style="width:70%;">
 </div>
 
-b.Functionality
+**b.Functionality**
 <div class="center">
     <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD2.jpg" style="width:70%;">
 </div>
@@ -173,12 +175,12 @@ Yaochuang CAD V10 is the flagship product of Yaochuang CAD in 2019. Compared to 
     <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD3.png" style="width:70%;">
 </div>
 
-a.Different Version
+**a.Different Version**
 <div class="center">
     <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD4.jpg" style="width:70%;">
 </div>
 
-b.Basic Functions
+**b.Basic Functions**
 <div class="center">
     <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD5.png" style="width:70%;">
 </div>
