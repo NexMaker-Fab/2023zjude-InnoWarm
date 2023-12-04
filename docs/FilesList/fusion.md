@@ -92,10 +92,7 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20.png"  style="width:70%;">
 </div>
-(21) 最终在装配时系统多次崩溃，故存在一定的欠缺，暂未找到解决该问题的办法。
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/21.png"  style="width:70%;">
-</div>
+
 
 ## 零件建模图例
 
@@ -182,5 +179,3 @@ b.Basic Functions
 <div class="center">
     <img src="https://raw.githubusercontent.com/ingw3216/blogimage/main/img/CAD5.png" style="width:70%;">
 </div>
-
-
