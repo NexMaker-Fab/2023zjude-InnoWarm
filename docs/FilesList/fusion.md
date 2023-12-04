@@ -96,8 +96,6 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 
 ## 零件建模图例
 
-<if ramestyle="width:70%;"  src="https://a360.co/48R9Go6" ></frame>
-
 ## Plugin Installation and Usage
 
 ## Simulation Video
