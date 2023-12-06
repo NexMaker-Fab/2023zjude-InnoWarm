@@ -411,7 +411,7 @@ Advantages: the mask is three-dimensional and fits to the face for more realism.
 Limitations: the mask is large, fixed, light-blocking and has limited resolution.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project1.png"  height="150">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project1.png"  height="250">
 </div>
 
 **（2）Reference case II: TouchDesigner+FaceTrack** 
@@ -423,7 +423,7 @@ Advantages: the project uses few tools and is simple to use.
 Limitations: the project relies entirely on computer software, fewer changes in the face changing effect.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project2.png"  height="150">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project2.png"  height="250">
 </div>
 
 **（3）Reference case III: LED integration**
@@ -435,7 +435,7 @@ Advantages: the project is a combination of hardware and software, which is easi
 Limitations: the project is complicated to operate, and the face rendering effect is poor.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  height="150">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  height="250">
 </div>
 
 ## 3.8 Reference 
