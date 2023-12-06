@@ -96,7 +96,7 @@ Click Tools -> Board -> select the Arduino board model (Tools -> Board) e.g. Ard
 (3) Selecting or writing a programme: In Arduino IDE, in order to facilitate the developer to learn, IDE internal integration of many Arduino routines, you can choose a trial run or write their own programs.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20programme"  height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20programme.jpg"  height="280">
 </div>
 
 ### 3.2.3 Compile and Upload
