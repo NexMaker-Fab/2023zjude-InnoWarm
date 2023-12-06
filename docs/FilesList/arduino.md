@@ -115,7 +115,24 @@ Then click on the upload icon to download the code to the Arduino.
 
 Finally, the programme can be seen actually running on the development board.
 
-## 3.3 Water Light
+
+## 3.3 Example Project
+
+Full video presentation: 
+
+<iframe width="560" height="500" src="https://www.youtube.com/embed/Txcl4hPJX94?si=4RheGpBv1FPVdXJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Key Point:
+
+(1) Use fewer components but get an entertaining toy;
+
+(2) Process is intuitive and easy to understand, and even novices can try it!
+
+
+<a href="https://bit.ly/3paXTLP">Click to get the code</a>
+
+
+## 3.4 Water Light
 
 The Water Light consists of a set of LEDs whose brightness changes one after another, and it is inspired by the running lights used in Japanese horse racing. 
 
@@ -164,7 +181,7 @@ void loop()
 ``` 
 
 
-## 3.4 Arduino output
+## 3.5 Arduino output
 
 In this section, we begin by using the a LCD display and arduino to display a simple 'helloword' statement. The hardware connections and final results are as follows.
 
@@ -308,7 +325,7 @@ void loop() {
 }
 ```
 
-## 3.5 Arduino intput
+## 3.6 Arduino intput
 
 In this section, we first try a simple distance measurement using an ultrasonic sensor and display the distance in the serial monitor panel of the Arduino IDE. During this process we encountered problems with inaccurate display. After checking this, we found that it was because the values in the code did not correspond to the serial communication in the IDE, and then we fixed the problem.
 
@@ -382,23 +399,46 @@ void loop()
 }
 ```
 
-## 3.6 Example Project
 
-Full video presentation: 
+## 3.7 Cases similar to the final project
 
-<iframe width="560" height="500" src="https://www.youtube.com/embed/Txcl4hPJX94?si=4RheGpBv1FPVdXJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**（1）Reference case I: zoning projections**
 
-Key Point:
+The project uses 3D printed masks, PCBs, Pi, Raspberry Pi and other modules to implement face projection transformations.
 
-(1) Use fewer components but get an entertaining toy;
+Advantages: the mask is three-dimensional and fits to the face for more realism.
 
-(2) Process is intuitive and easy to understand, and even novices can try it!
+Limitations: the mask is large, fixed, light-blocking and has limited resolution.
 
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project1.png"  height="150">
+</div>
 
-<a href="https://bit.ly/3paXTLP">Click to get the code</a>
+**（2）Reference case II: TouchDesigner+FaceTrack** 
 
+This project implements real-time face changes with Touch Designer's FaceTrack.
 
-## 3.7 Reference 
+Advantages: the project uses few tools and is simple to use.
+
+Limitations: the project relies entirely on computer software, fewer changes in the face changing effect.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project2.png"  height="150">
+</div>
+
+**（3）Reference case III: LED integration**
+
+This project uses Arduino board, RGB matrix, matrix power supply and so on to realise the change of pattern.
+
+Advantages: the project is a combination of hardware and software, which is easier to reproduce and refer to.
+
+Limitations: the project is complicated to operate, and the face rendering effect is poor.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  height="150">
+</div>
+
+## 3.8 Reference 
 www.arduino.cc
 
 
