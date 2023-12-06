@@ -49,7 +49,7 @@ STM32 is widely used in industrial control, automation, embedded systems, and th
 ### 3.2.1 Layout of Arduino IDE
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20layput.jpg"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20layput.jpg"  height="280">
 </div>
 
 The interface of the Arduino IDE is roughly divided into four sections:
@@ -65,7 +65,7 @@ The interface of the Arduino IDE is roughly divided into four sections:
 The Arduino IDE toolbar has some commonly used tools:
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20tool%20bar.jpg"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20tool%20bar.jpg"  height="100">
 </div>
 
 **Verify:** This button is used to check the correctness of your "syntax" or code. If your code has any syntax errors or undefined variables, an error message will appear at the bottom of the IDE screen. At the same time, the wrong line of code will be marked with a red background colour to make it easier to modify. However, if it is correct, you will see a message that the compilation is complete.
@@ -83,20 +83,20 @@ The Arduino IDE toolbar has some commonly used tools:
 (1) Serial Port Configuration: Before we load the sample project to test the Arduino, we need to configure the IDE to use the Arduino connected to the computer by clicking "Tools -> Port" and then find the COM port of the Arduino.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20port.jpg"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20port.jpg"  height="280">
 </div>
 
 (2) Development board configuration:
 Click Tools -> Board -> select the Arduino board model (Tools -> Board) e.g. Arduino Uno, you only need to configure it once here, and it will be used by default in all subsequent operations.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20board.jpg"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20board.jpg"  height="280">
 </div>
 
 (3) Selecting or writing a programme: In Arduino IDE, in order to facilitate the developer to learn, IDE internal integration of many Arduino routines, you can choose a trial run or write their own programs.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20programme"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20programme"  height="280">
 </div>
 
 ### 3.2.3 Compile and Upload
@@ -104,13 +104,13 @@ Click Tools -> Board -> select the Arduino board model (Tools -> Board) e.g. Ard
 First, click the "Verify" icon to confirm whether the programme can be compiled.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20verify.jpg"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20verify.jpg"  height="280">
 </div>
 
 Then click on the upload icon to download the code to the Arduino.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20upload.jpg"  width="300"height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20upload.jpg"  height="280">
 </div>
 
 Finally, the programme can be seen actually running on the development board.
