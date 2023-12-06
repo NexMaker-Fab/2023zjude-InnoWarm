@@ -65,7 +65,7 @@ The interface of the Arduino IDE is roughly divided into four sections:
 The Arduino IDE toolbar has some commonly used tools:
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20tool%20bar.jpg"  height="100">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20tool%20bar.jpg"  height="50">
 </div>
 
 **Verify:** This button is used to check the correctness of your "syntax" or code. If your code has any syntax errors or undefined variables, an error message will appear at the bottom of the IDE screen. At the same time, the wrong line of code will be marked with a red background colour to make it easier to modify. However, if it is correct, you will see a message that the compilation is complete.
@@ -110,7 +110,7 @@ First, click the "Verify" icon to confirm whether the programme can be compiled.
 Then click on the upload icon to download the code to the Arduino.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20upload.jpg"  height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20upload.jpg"  height="100">
 </div>
 
 Finally, the programme can be seen actually running on the development board.
