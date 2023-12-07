@@ -402,7 +402,7 @@ void loop()
 
 ## 3.7 Cases similar to the final project
 
-**Reference case III: LED integration**
+**Reference case : LED integrated interface**
 
 This project uses Arduino board, RGB matrix, matrix power supply and so on to realise the change of pattern.
 
