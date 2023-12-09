@@ -98,6 +98,8 @@ Display results:
 
 (3) picture
 
+**Markdown method:**
+
 ```
 {
   <div class="center">
@@ -109,6 +111,18 @@ Display results:
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png" style="width:75%;">
   </div>
+
+
+**Origin Method:**
+```
+{
+  ![Fig1. Install docsify](https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png)
+}
+```
+Display results:
+
+![Fig1. Install docsify](https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png)
+
 (4) link
 
 ```
