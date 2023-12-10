@@ -205,4 +205,4 @@ The interface is simple and the content is thin. In the subsequent lessons, we c
 
 ## 1.7 Reference & Acknowledgment
 
-This coursework was completed with reference to the 2022 course work, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
+This coursework was completed with reference to zjude2022, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
