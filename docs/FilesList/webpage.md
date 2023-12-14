@@ -82,7 +82,7 @@ Fold and File Relationship
 ## 1.2 Markdown
 When writing the website, we  build the basic framework  by comprehensively studying and referring to the syntax rules and typical cases given by NexMakerLab, ChatGPT, Github and other platforms, and some cases are given below.
 
-(1) header
+(1) headers
 
 ```
 {
@@ -95,6 +95,21 @@ Display results:
   # First-Level Title
   ## Second-Level Title
   ### Third-Level Title
+(2) emphasis
+```
+{
+  italics use single star/underscore: *text* or_text_ 
+  bold use double stars/underscores: **text** or __text__
+  Strikethrough use double tildes: ~~text~~
+}
+``` 
+Display Results:
+
+italics use single star/underscore: *text* or _text_ 
+
+bold use double stars/underscores: **text** or __text__
+
+Strikethrough use double tildes: ~~text~~
 
 (3) picture
 
