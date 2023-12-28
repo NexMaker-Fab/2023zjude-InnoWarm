@@ -164,7 +164,7 @@ void draw() {
 }
 ```
 
-**(2)Processing code**
+**(2)arduino code**
 
 ```
 int size = 0;
