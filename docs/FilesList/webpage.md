@@ -216,10 +216,15 @@ In order to protect the safety of the project, team members are given permission
 
 ## 1.6 Project Update
 
-The interface is simple and the content is thin. In the subsequent lessons, we can refer to different materials and tutorials, and continue to explore more diversified screens and more interesting web interactions :)
+We use Github Desktop to update the project. The following is the update process of the project.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/update.png" style="width:75%;">
   </div>
+
+  <div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/update1.png" style="width:75%;">
+  </div>
+  
 ## 1.7 Reference & Acknowledgment
 
 This coursework was completed with reference to zjude2022, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
