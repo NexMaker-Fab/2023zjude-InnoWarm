@@ -75,7 +75,7 @@ Listening at http://localhost:3000
 Fold and File Relationship
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231026135710.png" style="width:75%;" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/foldandfile.png" style="width:75%;" >
   </div>
 </body>
 
@@ -214,10 +214,12 @@ In order to protect the safety of the project, team members are given permission
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231108225447.png" style="width:75%;">
   </div>
 
-## 1.6 Future Enhancements
+## 1.6 Project Update
 
 The interface is simple and the content is thin. In the subsequent lessons, we can refer to different materials and tutorials, and continue to explore more diversified screens and more interesting web interactions :)
-
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/update.png" style="width:75%;">
+  </div>
 ## 1.7 Reference & Acknowledgment
 
 This coursework was completed with reference to zjude2022, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
