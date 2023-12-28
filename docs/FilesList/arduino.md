@@ -4,7 +4,7 @@
 **(1)Raspberry Pi**
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/ea73bb4c98cc8244e128f393c5162e6.png"  width="300"height="280">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/ea73bb4c98cc8244e128f393c5162e6.png"  width="800">
 </div>
 
 Raspberry Pi is designed for learning computer programming education, a miniature computer the size of a credit card, with its system based on Linux. With the release of IoT, users can now use Raspberry Pi running Windows. It has complete computing capabilities, capable of running operating systems similar to desktop computers. 
@@ -16,7 +16,7 @@ Raspberry Pi is commonly used in various projects, including smart home systems,
 **(2)BeagleBoard**
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/d46d2ac3aca5a32a622f23f5d951a7f.jpg"  width="900">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/d46d2ac3aca5a32a622f23f5d951a7f.jpg"  width="800">
 </div>
 
 BeagleBoard is a low-power open-source single-board computer jointly produced by Texas Instruments with Digi-Key and Newark. It is designed for open-source software development and serves as a demonstration of the Texas Instruments OMAP3530 system-on-a-chip. Similar to Raspberry Pi, BeagleBoard is also a low-cost, open-source hardware platform that provides a complete single-board computer solution. 
@@ -27,7 +27,7 @@ BeagleBoard is commonly used in fields such as embedded system development, robo
 **(3)ESP32**
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/c2b1e9d0ba7c8f4f17fc7c6656a8a48.png"   width="900">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/c2b1e9d0ba7c8f4f17fc7c6656a8a48.png"   width="800">
 </div>
 
 ESP32 is a series of low-cost, low-power microcontroller units that integrate Wi-Fi and dual-mode Bluetooth. The ESP32 series adopts the Tensilica Xtensa LX6 microprocessor, including dual-core and single-core versions, with built-in antenna switches, RF RF modules, power amplifiers, low-noise receive amplifiers, filters, and power management modules. Currently, the product models in the ESP32 series include ESP32 S2 (single-core + 2.4G Wi-Fi), ESP32 S3 (dual-core + 2.4G Wi-Fi + Bluetooth 5), ESP32 C2 (single-core + 2.4G Wi-Fi + Bluetooth 5), ESP32 C3 (single-core + 2.4G Wi-Fi + Bluetooth 5), and traditional ESP32 modules.
@@ -38,7 +38,7 @@ ESP32 is widely used in Internet of Things (IoT) applications and projects. They
 **(4)STM32**
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a716b575145fff15468c29549550531.jpg"   width="900">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/a716b575145fff15468c29549550531.jpg"   width="800">
 </div>
 
 STM32 is a series of 32-bit ARM Cortex-M microcontrollers launched by STMicroelectronics. They provide rich peripherals and processing capabilities, suitable for projects of various scales and complexities. The STM32 series consists of multiple families, each with different subfamilies to meet the requirements of different application scenarios. They cover applications for low-power, high-performance, and various peripheral interface requirements.
@@ -49,7 +49,7 @@ STM32 is widely used in industrial control, automation, embedded systems, and th
 ### 3.2.1 Layout of Arduino IDE
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20layput.jpg"   width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20layput.jpg"   width="800">
 </div>
 
 The interface of the Arduino IDE is roughly divided into four sections:
@@ -65,7 +65,7 @@ The interface of the Arduino IDE is roughly divided into four sections:
 The Arduino IDE toolbar has some commonly used tools:
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20tool%20bar.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20tool%20bar.jpg"  width="800">
 </div>
 
 **Verify:** This button is used to check the correctness of your "syntax" or code. If your code has any syntax errors or undefined variables, an error message will appear at the bottom of the IDE screen. At the same time, the wrong line of code will be marked with a red background colour to make it easier to modify. However, if it is correct, you will see a message that the compilation is complete.
@@ -83,20 +83,20 @@ The Arduino IDE toolbar has some commonly used tools:
 (1) Serial Port Configuration: Before we load the sample project to test the Arduino, we need to configure the IDE to use the Arduino connected to the computer by clicking "Tools -> Port" and then find the COM port of the Arduino.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20port.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20port.jpg"  width="800">
 </div>
 
 (2) Development board configuration:
 Click Tools -> Board -> select the Arduino board model (Tools -> Board) e.g. Arduino Uno, you only need to configure it once here, and it will be used by default in all subsequent operations.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20board.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20board.jpg"  width="800">
 </div>
 
 (3) Selecting or writing a programme: In Arduino IDE, in order to facilitate the developer to learn, IDE internal integration of many Arduino routines, you can choose a trial run or write their own programs.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20programme.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20programme.jpg"  width="800">
 </div>
 
 ### 3.2.3 Compile and Upload
@@ -104,13 +104,13 @@ Click Tools -> Board -> select the Arduino board model (Tools -> Board) e.g. Ard
 First, click the "Verify" icon to confirm whether the programme can be compiled.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20verify.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20verify.jpg"  width="800">
 </div>
 
 Then click on the upload icon to download the code to the Arduino.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20upload.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/IDE%20upload.jpg"  width="800">
 </div>
 
 Finally, the programme can be seen actually running on the development board.
@@ -141,7 +141,7 @@ In this project, we have the following experimental equipments: Arduino UNO, bre
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-24%20194302.png"  height="280">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-24%20194302.png"  width="800">
 </div>
 
 **(2)Hardware Connect**
@@ -192,7 +192,7 @@ Then we tried a more interesting and challenging task: making the Snake game.
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/thinkercad1.jpg"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/thinkercad1.jpg"  width="800">
 </div>
 
 **(2)Hardware Connect**
@@ -334,7 +334,7 @@ Then we used an ultrasonic sensor to measure the distance and displayed the dist
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/sensor.png"  height="280">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/sensor.png"  width="800">
 </div>
 
 **(2)Hardware Connect**
@@ -402,7 +402,31 @@ void loop()
 
 ## 3.7 Cases similar to the final project
 
-**Reference case : LED integrated interface**
+**（1）Reference case I: zoning projections**
+
+The project uses 3D printed masks, PCBs, Pi, Raspberry Pi and other modules to implement face projection transformations.
+
+Advantages: the mask is three-dimensional and fits to the face for more realism.
+
+Limitations: the mask is large, fixed, light-blocking and has limited resolution.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project1.png"  width="800">
+</div>
+
+**（2）Reference case II: TouchDesigner+FaceTrack** 
+
+This project implements real-time face changes with Touch Designer's FaceTrack.
+
+Advantages: the project uses few tools and is simple to use.
+
+Limitations: the project relies entirely on computer software, fewer changes in the face changing effect.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project2.png"  width="800">
+</div>
+
+**（3）Reference case III: LED integration**
 
 This project uses Arduino board, RGB matrix, matrix power supply and so on to realise the change of pattern.
 
@@ -411,7 +435,7 @@ Advantages: the project is a combination of hardware and software, which is easi
 Limitations: the project is complicated to operate, and the face rendering effect is poor.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  width="900">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  width="800">
 </div>
 
 
