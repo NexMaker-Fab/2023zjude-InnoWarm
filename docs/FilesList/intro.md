@@ -4,7 +4,7 @@
 ``` 
 We are **InnoWarm**, a team of __six__ industrial design students. With *creativity* and _passion_, we look forward to ~~blending~~ design with the needs of users to bring them a unique and warm design experience.
 ```
-We are **InnoWarm**, a team of __six__ industrial design students. With *creativity* and *passion*, we look forward to ~~blending~~ design with the needs of users to bring them a unique and warm design experience.
+We are **InnoWarm**, a team of __six__ industrial design students. With *creativity* and _passion_, we look forward to ~~blending~~ design with the needs of users to bring them a unique and warm design experience.
 ``` 
 (Equal contribution, alphabetical order)
 
