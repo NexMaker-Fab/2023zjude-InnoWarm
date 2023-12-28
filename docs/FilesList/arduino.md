@@ -402,7 +402,31 @@ void loop()
 
 ## 3.7 Cases similar to the final project
 
-**Reference case : LED integrated interface**
+**（1）Reference case I: zoning projections**
+
+The project uses 3D printed masks, PCBs, Pi, Raspberry Pi and other modules to implement face projection transformations.
+
+Advantages: the mask is three-dimensional and fits to the face for more realism.
+
+Limitations: the mask is large, fixed, light-blocking and has limited resolution.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project1.png"  weight="800">
+</div>
+
+**（2）Reference case II: TouchDesigner+FaceTrack** 
+
+This project implements real-time face changes with Touch Designer's FaceTrack.
+
+Advantages: the project uses few tools and is simple to use.
+
+Limitations: the project relies entirely on computer software, fewer changes in the face changing effect.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project2.png"  weight="800">
+</div>
+
+**（3）Reference case III: LED integration**
 
 This project uses Arduino board, RGB matrix, matrix power supply and so on to realise the change of pattern.
 
@@ -411,7 +435,7 @@ Advantages: the project is a combination of hardware and software, which is easi
 Limitations: the project is complicated to operate, and the face rendering effect is poor.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/project3.png"  weight="800">
 </div>
 
 
