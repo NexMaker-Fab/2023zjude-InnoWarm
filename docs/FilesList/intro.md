@@ -6,7 +6,9 @@ We are **InnoWarm**, a team of __six__ industrial design students. With *creativ
 ```
 We are **InnoWarm**, a team of __six__ industrial design students. With *creativity* and *passion*, we look forward to ~~blending~~ design with the needs of users to bring them a unique and warm design experience.
 ``` 
-(成员按姓氏首字母顺序)
+(Equal contribution, alphabetical order)
+
+```
 
 ## 曹伟
 ```
