@@ -123,6 +123,67 @@ When the mouse is clicked, traces appear on the screen to generate interactions�
 
 ## 3.3 Demo
 
+**(1)Processing code**
+
+```
+import processing.serial.*;
+Serial port;
+
+int diam = 50;
+
+void setup(){
+  size(500,500);
+  background(#ffffff);
+  
+  fill(#f3a694);
+  noStroke();
+  ellipse(200 , 200 , diam , diam);
+  
+  String portName = Serial.list()[1];
+  port = new Serial(this, portName ,9600);
+  println(portName);
+}
+
+void draw() {
+  
+  while(port.available()>0)
+  {
+    diam = port.readChar();
+    //println(diam);
+    clear();
+    background(#ffffff);
+    ellipse(200, 200, diam, diam);
+  }
+  
+  
+  
+  //println(777);
+  
+  //delay(100);
+  
+}
+```
+
+**(2)Processing code**
+
+```
+int size = 0;
+
+void setup() {
+  
+  Serial.begin(9600);
+
+
+}
+
+void loop() {
+  
+  size = map(analogRead(A0), 0, 1023, 5, 190);
+
+  Serial.write(size);
+
+//  delay(10)
+}
 ## 3.4 IOT
 。。。。
 
