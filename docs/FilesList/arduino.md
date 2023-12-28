@@ -334,7 +334,7 @@ Then we used an ultrasonic sensor to measure the distance and displayed the dist
 **(1)Simulation Circuit**
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/sensor.png"  weight="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/sensor.png"  width="800">
 </div>
 
 **(2)Hardware Connect**
