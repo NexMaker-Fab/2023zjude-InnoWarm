@@ -202,10 +202,10 @@ Research in the field of 3D printing is robust, with numerous papers published i
 
 **High Cell Density and High-Resolution 3D Bioprinting for Vascularized Tissues:** 
 
-This paper from Science Advances by Shangting You and colleagues introduces a new bioprinting technique enhancing the fidelity in creating functional human tissues. It's pivotal for fabricating vascularized tissues closely resembling natural human tissues, with applications in regenerative medicine and tissue engineering[1].
+This paper from Science Advances by Shangting You and colleagues introduces a new bioprinting technique enhancing the fidelity in creating functional human tissues. It's pivotal for fabricating vascularized tissues closely resembling natural human tissues, with applications in regenerative medicine and tissue engineering[1，5].
 
 <div class="center">
-    <img src="[https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9946358/bin/sciadv.ade7923-f1.gif](http://www-science-org-s.webvpn.zju.edu.cn:8001/cms/10.1126/sciadv.ade7923/asset/d05a9f48-8afa-4185-9a8d-71b3af5f7b03/assets/images/large/sciadv.ade7923-f1.jpg)"  width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8721.png"  width="800">
 </div>
 
 
@@ -268,3 +268,5 @@ These developments indicate a significant evolution in 3D printing technology, f
 [3] https://3dprintscape.com/trends-and-advancements-in-3d-printing-technology/
 
 [4] https://metrology.news/smart-3d-printer-features-advanced-process-control-and-monitoring/
+
+[5] Shangting You, Yi Xiang, Henry H. Hwang, David B. Berry, Wisarut Kiratitanaporn, Jiaao Guan, Emmie Yao, Min Tang, Zheng Zhong, Xinyue Ma, Daniel Wangpraseurt, Yazhi Sun, Ting-yu Lu, Shaochen Chen. High cell density and high-resolution 3D bioprinting for fabricating vascularized tissues. Science Advances, 2023; 9 (8) DOI: 10.1126/sciadv.ade7923
