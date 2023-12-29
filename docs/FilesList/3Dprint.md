@@ -205,7 +205,7 @@ Research in the field of 3D printing is robust, with numerous papers published i
 This paper from Science Advances by Shangting You and colleagues introduces a new bioprinting technique enhancing the fidelity in creating functional human tissues. It's pivotal for fabricating vascularized tissues closely resembling natural human tissues, with applications in regenerative medicine and tissue engineering[1，5].
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8721.png"  width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8722.png"  width="800">
 </div>
 
 
