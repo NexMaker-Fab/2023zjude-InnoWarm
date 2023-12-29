@@ -200,14 +200,18 @@ There have been significant advancements in materials used for 3D printing. Vari
 Research in the field of 3D printing is robust, with numerous papers published in prestigious journals like Nature, covering a wide range of topics from new materials to innovative printing techniques.For example:
 
 
-**High Cell Density and High-Resolution 3D Bioprinting for Vascularized Tissues:** This paper from Science Advances by Shangting You and colleagues introduces a new bioprinting technique enhancing the fidelity in creating functional human tissues. It's pivotal for fabricating vascularized tissues closely resembling natural human tissues, with applications in regenerative medicine and tissue engineering[1].
+**High Cell Density and High-Resolution 3D Bioprinting for Vascularized Tissues:** 
+
+This paper from Science Advances by Shangting You and colleagues introduces a new bioprinting technique enhancing the fidelity in creating functional human tissues. It's pivotal for fabricating vascularized tissues closely resembling natural human tissues, with applications in regenerative medicine and tissue engineering[1].
 
 <div class="center">
-    <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9946358/bin/sciadv.ade7923-f1.gif"  width="800">
+    <img src="[https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9946358/bin/sciadv.ade7923-f1.gif](http://www-science-org-s.webvpn.zju.edu.cn:8001/cms/10.1126/sciadv.ade7923/asset/d05a9f48-8afa-4185-9a8d-71b3af5f7b03/assets/images/large/sciadv.ade7923-f1.jpg)"  width="800">
 </div>
 
 
-**3D printing gets a twist from a novel nozzle:** This paper discusses a new rotating nozzle capable of printing with multiple materials simultaneously. The researchers used this novel nozzle to print helix shapes with unique properties, including artificial muscles and filaments with changing properties during printing[2].
+**3D printing gets a twist from a novel nozzle:**
+
+This paper discusses a new rotating nozzle capable of printing with multiple materials simultaneously. The researchers used this novel nozzle to print helix shapes with unique properties, including artificial muscles and filaments with changing properties during printing[2].
 
 <iframe width="800" src="https://www.youtube.com/embed/ijBMU5Se4fE" title="3D printing - with a twist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -217,6 +221,7 @@ These papers showcase advances in bioprinting and volumetric printing, promising
 ## 5.4.2 New Applications
 
 **Bioprinting:**
+
 Bioprinting is used to create intricate scaffolds and vascular networks, supporting tissue growth and organ regeneration. This involves bioprinting with bio-inks and biomaterials to construct structures that mimic the natural extracellular matrix[3].
 
 <div class="center">
@@ -225,6 +230,7 @@ Bioprinting is used to create intricate scaffolds and vascular networks, support
 
 
 **Large-Scale 3D Printing:**
+
 There is an increasing trend towards large-scale 3D printing, enabling the production of architectural prototypes, industrial parts, and even entire buildings. This technology is being used in construction, architecture, infrastructure, marine and offshore industries, automotive prototyping, art, and aerospace tooling.
 
 <div class="center">
@@ -233,6 +239,7 @@ There is an increasing trend towards large-scale 3D printing, enabling the produ
 
 
 **Smart 3D Printing:**
+
 Advanced sensors and software are being integrated into 3D printers to optimize the printing process. These smart printers can detect errors, adjust parameters in real time, and incorporate embedded sensors and electronics into printed objects. AI and machine learning are being used to enhance efficiency and accuracy[4].
 
 <div class="center">
@@ -241,6 +248,7 @@ Advanced sensors and software are being integrated into 3D printers to optimize 
 
 
 **Sustainable Materials and Recycling:**
+
 There's a growing emphasis on using sustainable materials in 3D printing, like bio-based plastics and recycled filaments, to minimize environmental impact. Efforts are also being made to improve the recyclability of printed objects and develop closed-loop systems for material reuse.
 
 <div class="center">
@@ -254,6 +262,9 @@ These developments indicate a significant evolution in 3D printing technology, f
 # 5.5 Referrences
 
 [1] https://www.sciencedaily.com/releases/2023/02/230222141225.htm
+
 [2] https://www.nature.com/articles/d41586-023-00120-2
+
 [3] https://3dprintscape.com/trends-and-advancements-in-3d-printing-technology/
+
 [4] https://metrology.news/smart-3d-printer-features-advanced-process-control-and-monitoring/
