@@ -95,6 +95,7 @@ Slice and save the file.
 ## 5.2.4 Connect the printer to print the model
 
 Option 1: Save the model 1 in the SD card and connect it to a printer to print. The printing device is Bambu Lab A1 mini.
+
 Display of Printed Objects:
 
 <div class="center">
