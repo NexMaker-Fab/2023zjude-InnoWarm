@@ -138,7 +138,7 @@ Display of Printed Objects:
 
 ## 5.2.5 Tilt angle test
 
-We modelled a tilt model and tried to add support. However, the printer reported an error after adding the support, so the support printing was eventually cancelled.
+We built a tilt model and tried to add support, but it reported an error after adding support, so we cancelled the support.
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8715.png"  width="800">
@@ -183,7 +183,7 @@ Display of Printed Objects:
 
 **Problem 4:** During the tilt model test phase, the printer reports an error when printing the model after adding support.
 
-**Solution: **Print after cancelling the support.
+**Solution:** Print after cancelling the support.
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8720.png"  width="800">
