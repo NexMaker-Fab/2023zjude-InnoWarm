@@ -92,14 +92,12 @@ Slice and save the file.
 </div>
 
 
-## 5.2.4 Connect the printer to print the model
+## 5.2.4 Connect the printer to print the model 
 
 Option 1: Save the model 1 in the SD card and connect it to a printer to print. The printing device is Bambu Lab A1 mini.
 
-Display of Printed Objects:
-
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%879.png"  width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8723.png"  width="800">
 </div>
 
 
@@ -125,18 +123,30 @@ Select the device in Bambu Studio on your computer, send Model 2 to the device, 
 </div>
 
 
-Display of Printed Objects:
+Display of printing process:
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8713.png"  width="800">
 </div>
+
+
+## 5.2.5 Post-processing and final model presentation
+
+For model 1, we assembled the printed fish head and tail. We did not sand the surface in order to render the fish scales.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%879.png"  width="800">
+</div>
+
+
+For model 2, we assembled the two-part model and sanded the surface of the model with sandpaper. The final result is presented as below:
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8714.png"  width="800">
 </div>
 
 
-## 5.2.5 Tilt angle test
+## 5.2.6 Tilt angle test
 
 We built a tilt model and tried to add support, but it reported an error after adding support, so we cancelled the support.
 
@@ -213,7 +223,7 @@ This paper from Science Advances by Shangting You and colleagues introduces a ne
 
 This paper discusses a new rotating nozzle capable of printing with multiple materials simultaneously. The researchers used this novel nozzle to print helix shapes with unique properties, including artificial muscles and filaments with changing properties during printing[2].
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/ijBMU5Se4fE" title="3D printing - with a twist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ijBMU5Se4fE" title="3D printing - with a twist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" aspectratio="16:9" width="100%" height="600"></iframe>
 
 These papers showcase advances in bioprinting and volumetric printing, promising innovations for medical, engineering, and material science applications.
 
