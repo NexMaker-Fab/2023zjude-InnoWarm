@@ -132,14 +132,14 @@ Display of printing process:
 
 ## 5.2.5 Post-processing and final model presentation
 
-For model 1, we assembled the printed fish head and tail. We did not sand the surface in order to render the fish scales.The final result is presented as below:
+For model 1, we assembled the printed fish head and tail. We did not sand the surface and the final result is presented as below:
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%879.png"  width="800">
 </div>
 
 
-For model 2, we assembled the two-part model and sanded the surface of the model with sandpaper. The final result is presented as below:
+For model 2, we assembled the two-part model (the base and the tree top). We did not sand the surface andhe final result is presented as below:
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8714.png"  width="800">
