@@ -107,14 +107,14 @@ Option 2: Sending to the printer after connecting online through the network. Th
 Download Bambu Handy on your mobile phone and log in to your Bambu Studio account on your computer.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8710.png"  width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8710.png"  width="400">
 </div>
 
 
 Add a device by scanning the QR code on the device to bind the device to the account.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8711.png"  width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8711.png"  width="400">
 </div>
 
 
