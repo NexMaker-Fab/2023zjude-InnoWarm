@@ -213,7 +213,7 @@ This paper from Science Advances by Shangting You and colleagues introduces a ne
 
 This paper discusses a new rotating nozzle capable of printing with multiple materials simultaneously. The researchers used this novel nozzle to print helix shapes with unique properties, including artificial muscles and filaments with changing properties during printing[2].
 
-<iframe width="800" src="https://www.youtube.com/embed/ijBMU5Se4fE" title="3D printing - with a twist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ijBMU5Se4fE" title="3D printing - with a twist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 These papers showcase advances in bioprinting and volumetric printing, promising innovations for medical, engineering, and material science applications.
 
