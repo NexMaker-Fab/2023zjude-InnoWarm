@@ -132,7 +132,7 @@ Display of printing process:
 
 ## 5.2.5 Post-processing and final model presentation
 
-For model 1, we assembled the printed fish head and tail. We did not sand the surface in order to render the fish scales.
+For model 1, we assembled the printed fish head and tail. We did not sand the surface in order to render the fish scales.The final result is presented as below:
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%879.png"  width="800">
