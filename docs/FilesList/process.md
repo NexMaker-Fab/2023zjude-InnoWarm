@@ -186,11 +186,15 @@ void loop() {
 }
 ```
 
-## 3.4 IOT
-。。。。
+**(3)Demonstration**
 
-## 3.5 GUI
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=877935782&bvid=BV1zN4y1q7UU&cid=1384859693&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 3.6 Reference
+
+## Reference
 
 https://en.wikipedia.org/wiki/Processing
+
+https://www.bilibili.com/video/BV1MC4y1s7gm/?spm_id_from=333.999.0.0&vd_source=2401c15cc3a81cfb2753e3ea23639e6a
+
+https://openprocessing.org/
