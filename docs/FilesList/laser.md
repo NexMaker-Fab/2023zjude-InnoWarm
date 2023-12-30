@@ -15,4 +15,30 @@ Fiber laser cutting machine uses a fiber laser generator as a light source. The 
 ## (3) Medal Laser Cutting
 Medal Laser Cutting is used for cutting metal materials. It is characterized by fast cutting speed and small slit, which can be used for cutting stainless steel, carbon steel, galvanized sheet, electrolytic plate, brass plate, aluminum alloy, manganese steel, all kinds of alloy plates, rare metals, etc.
 
+## 6.3 Kerf Experiment
+
+Apparently ,the laser has diameter. We would test the kerf(the diameter of laser) by using 5 rectanges to measure it.
+>(1) The width of each rectange in the Powercut is 100mm.
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/powercut.jpg" style="width:75%;">
+  </div>
+
+>(2) Next step, we find a 3mm acrylic plate for cutting:
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/cutting.jpg" style="width:75%;">
+  </div>
+
+>(3) Final step, we use the vernier caliper to measure the outside length of 5 rectangles:
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/measure.jpg" style="width:75%;">
+  </div>
+
+After the procedure, we measured the outside length of 5 rectangles is 51.34mm,so the kerf is
+kerf= (51.34-50)/10=0.134mm
+
+## 6.4 Laser Cutting Project
+
 
