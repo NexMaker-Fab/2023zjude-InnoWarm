@@ -224,7 +224,8 @@ We use Github Desktop to update the project. The following is the update process
   <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/update1.png" style="width:75%;">
   </div>
-  
+
+
 ## 1.7 Reference & Acknowledgment
 
 This coursework was completed with reference to zjude2022, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
