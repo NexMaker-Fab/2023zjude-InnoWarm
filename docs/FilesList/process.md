@@ -169,7 +169,7 @@ void draw() {
 arduino connection
 
 <div class="center">
-    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/of.png"  width="300" height="300">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/WechatIMG14.jpg"  width="300" height="300">
 </div>
 
 arduino code
