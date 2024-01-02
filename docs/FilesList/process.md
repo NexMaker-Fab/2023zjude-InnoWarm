@@ -121,7 +121,7 @@ When the mouse is clicked, traces appear on the screen to generate interactions�
 
 <iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=964094838&bvid=BV1hH4y1176L&cid=1350323084&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 3.3 Demo
+## 3.3 Demo in processing and arduino
 
 **(1)Processing code**
 
@@ -164,7 +164,15 @@ void draw() {
 }
 ```
 
-**(2)arduino code**
+**(2)arduino**
+
+arduino connection
+
+<div class="center">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/of.png"  width="300" height="300">
+</div>
+
+arduino code
 
 ```
 int size = 0;
@@ -190,6 +198,7 @@ void loop() {
 
 <iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=877935782&bvid=BV1zN4y1q7UU&cid=1384859693&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+## 3.4 New Tool
 
 ## Reference
 
