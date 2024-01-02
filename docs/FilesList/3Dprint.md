@@ -1,4 +1,4 @@
-# 3.1 The background of 3D printing
+# 5.1 The background of 3D printing
 
 3D printing, or additive manufacturing, is a revolutionary process that involves the creation of three-dimensional objects through the successive addition of material in layers. This technology utilizes digital 3D model files to construct physical objects, layer by layer, using a variety of materials, including plastics, metals, and ceramics. Notably, 3D printing offers advantages such as the ability to produce intricate internal structures, increased material and time efficiency compared to traditional manufacturing, and widespread applications across diverse fields.
 
@@ -7,29 +7,29 @@
 </div>
 
 
-## 3.1.1. Process and Technology
+## 5.1.1. Process and Technology
 
 3D printing is a layered manufacturing process where digital 3D model files serve as blueprints for creating physical objects. The technology excels in its capability to add material successively in layers, providing a versatile and efficient approach to fabrication.
 
 
-## 3.1.2 Materials and Advantages
+## 5.1.2 Materials and Advantages
 
 Various materials, ranging from plastics to metals and ceramics, can be employed in 3D printing. One of the key advantages lies in the technology's ability to create intricate internal structures, setting it apart from traditional manufacturing methods. Additionally, 3D printing is recognized for its efficiency in both material usage and time.
 
 
-## 3.1.3 Diverse Applications
+## 5.1.3 Diverse Applications
 
 The applications of 3D printing are extensive, spanning multiple industries. Its versatility finds expression in industrial design, architecture, engineering, and medical fields. The technology's capacity to adapt and cater to diverse requirements makes it a valuable asset in these varied sectors.
 
 
-## 3.1.4 Continuous Evolution
+## 5.1.4 Continuous Evolution
 
 As 3D printing technology evolves, ongoing efforts focus on exploring new materials and manufacturing techniques. This continuous exploration and innovation aim to broaden the scope of 3D printing applications, pushing the boundaries of what can be achieved in design, production, and various other fields.
 
 
-# 3.2 Procedures of 3D printing
+# 5.2 Procedures of 3D printing
 
-## 3.2.1 Download Bambu Studio
+## 5.2.1 Download Bambu Studio
 
 Go to the official website and find the corresponding version of bambu studio to download, the download process is simple and fast
 
@@ -38,7 +38,7 @@ Go to the official website and find the corresponding version of bambu studio to
 </div>
 
 
-## 3.2.2 Find models
+## 5.2.2 Find models
 
 Find a favourite model in a model website and download the source file.
 
@@ -63,7 +63,7 @@ We found two favourite models from the website and downloaded them to our comput
 </div>
 
 
-## 3.2.3 Open in Bambu Studio and adjust parameters with slicing software
+## 5.2.3 Open in Bambu Studio and adjust parameters with slicing software
 
 **Model 1**
 
@@ -76,12 +76,30 @@ We found two favourite models from the website and downloaded them to our comput
 </div>
 
 
+**Key parameters:**
+
+The key parameters of the model are as follows: the layer height is 0.16mm, the first layer height is 0.2mm, the joints are aligned, the number of wall layers is 2, the top pattern is a monotonic line, the number of layers in the top shell is 4, the top shell thickness is 0.6mm, the bottom pattern is monotonic, the number of layers in the bottom shell is 4, the thickness of the bottom subject is 0mm, the internal solid fill pattern is a straight line, the coefficient fill density is 15%, and the coefficient fill pattern is grid; we tried to turn on the support, but the model was in error, so we cancelled the support.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter1.png" width="800">
+</div>
+
+
 **Model 2**
 
 Import the model into Bambu Studio, adjust the parameters and scale the size.
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%877.png"  width="800">
+</div>
+
+
+**Key parameters:**
+
+Model 2 has essentially the same parameters as Model 1, and we have also removed the supports, as shown below.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter2.png" width="800">
 </div>
 
 
@@ -92,7 +110,7 @@ Slice and save the file.
 </div>
 
 
-## 3.2.4 Connect the printer to print the model 
+## 5.2.4 Connect the printer to print the model 
 
 Option 1: Save the model 1 in the SD card and connect it to a printer to print. The printing device is Bambu Lab A1 mini.
 
@@ -130,7 +148,7 @@ Display of printing process:
 </div>
 
 
-## 3.2.5 Post-processing and final model presentation
+## 5.2.5 Post-processing and final model presentation
 
 For model 1, we assembled the printed fish head and tail. We did not sand the surface and the final result is presented as below:
 
@@ -146,12 +164,21 @@ For model 2, we assembled the two-part model (the base and the tree top). We did
 </div>
 
 
-## 3.2.6 Tilt angle test
+## 5.2.6 Tilt angle test
 
 We built a tilt model and tried to add support, but it reported an error after adding support, so we cancelled the support.
 
 <div class="center">
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%8715.png"  width="800">
+</div>
+
+
+**Key parameters**
+
+We partially adjusted the parameters of this test model by changing the number of wall layers to 3, the number of top shell layers to 2, the number of bottom shell layers to 4, and the sparse fill pattern to straight lines.
+
+<div class="center">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter3.png" width="500">
 </div>
 
 
@@ -162,7 +189,7 @@ Display of Printed Objects:
 </div>
 
 
-# 3.3 Problems and solutions
+# 5.3 Problems and solutions
 
 **Problem 1:** In the stage of adjusting model parameters, after turning on the support, there will be a printing error and the model will disappear.
 
@@ -200,12 +227,12 @@ Display of Printed Objects:
 </div>
 
 
-# 3.4 New Research and Applications
+# 5.4 New Research and Applications
 
 There have been significant advancements in materials used for 3D printing. Various research papers published in journals like Nature and Science have discussed new materials and methods, such as intricate scaffold and vascular network fabrication for bioprinting, large-scale 3D printing for construction, and smart 3D printing incorporating advanced sensors, self-healing materials, and AI integration.
 
 
-## 3.4.1 New Research Papers
+## 5.4.1 New Research Papers
 
 Research in the field of 3D printing is robust, with numerous papers published in prestigious journals like Nature, covering a wide range of topics from new materials to innovative printing techniques.For example:
 
@@ -228,7 +255,7 @@ This paper discusses a new rotating nozzle capable of printing with multiple mat
 These papers showcase advances in bioprinting and volumetric printing, promising innovations for medical, engineering, and material science applications.
 
 
-## 3.4.2 New Applications
+## 5.4.2 New Applications
 
 **Bioprinting:**
 
@@ -269,7 +296,7 @@ There's a growing emphasis on using sustainable materials in 3D printing, like b
 These developments indicate a significant evolution in 3D printing technology, from improved speed and material versatility to the application in large-scale constructions and integration of smart technologies. The focus on sustainability also highlights a conscious effort to reduce the environmental impact of 3D printing.
 
 
-# 3.5 Referrences
+# 5.5 Referrences
 
 [1] https://www.sciencedaily.com/releases/2023/02/230222141225.htm
 
@@ -279,4 +306,4 @@ These developments indicate a significant evolution in 3D printing technology, f
 
 [4] https://metrology.news/smart-3d-printer-features-advanced-process-control-and-monitoring/
 
-[5] Shangting You, Yi Xiang, Henry H. Hwang, David B. Berry, Wisarut Kiratitanaporn, Jiaao Guan, Emmie Yao, Min Tang, Zheng Zhong, Xinyue Ma, Daniel Wangpraseurt, Yazhi Sun, Ting-yu Lu, Shaochen Chen. High cell density and high-resolution 3D bioprinting for fabricating vascularized tissues. Science Advances, 2023; 9 (8) DOI: 10.1126/sciadv.ade7923
+[5] Shangting You, Yi Xiang, Henry H. Hwang, David B. Berry, Wisarut Kiratitanaporn, Jiaao Guan, Emmie Yao, Min Tang, Zheng Zhong, Xinyue Ma, Daniel Wangpraseurt, Yazhi Sun, Ting-yu Lu, Shaochen Chen. High cell density and high-resolution 3D bioprinting for fabricating vascularized tissues. Science Advances, 2023; 9 (8) DOI: 10.1126/sciadv.ade7923.
