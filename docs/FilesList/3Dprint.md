@@ -71,17 +71,13 @@ We found two favourite models from the website and downloaded them to our comput
     <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%875.png"  width="800">
 </div>
 
-<div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/%E5%9B%BE%E7%89%876.png"  width="800">
-</div>
-
 
 **Key parameters:**
 
 The key parameters of the model are as follows: the layer height is 0.16mm, the first layer height is 0.2mm, the joints are aligned, the number of wall layers is 2, the top pattern is a monotonic line, the number of layers in the top shell is 4, the top shell thickness is 0.6mm, the bottom pattern is monotonic, the number of layers in the bottom shell is 4, the thickness of the bottom subject is 0mm, the internal solid fill pattern is a straight line, the coefficient fill density is 15%, and the coefficient fill pattern is grid; we tried to turn on the support, but the model was in error, so we cancelled the support.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter1.png" width="800">
+    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter.png" width="800">
 </div>
 
 
