@@ -82,7 +82,7 @@ We found two favourite models from the website and downloaded them to our comput
 
 The core parameters of 3D printing are shown in the table below：
 
-<div class="center">
+<div align="center">
 
 | Name     |Data     |
 | :------------ | :------------ |
@@ -97,6 +97,7 @@ The core parameters of 3D printing are shown in the table below：
 | Support    | None        | 
 
 </div>
+
 
 **Model 2**
 
