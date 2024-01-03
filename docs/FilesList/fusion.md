@@ -16,86 +16,90 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/2.png"  style="width:70%;">
 </div>
-(3) In the sketch, draw a circle in preparation for a sweep.
+(3) Constrain parts of the sketch and complete the sketch.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/yueshu.png"  style="width:70%;">
+</div>
+(4) In the sketch, draw a circle in preparation for a sweep.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/3.png" style="width:70%;">
 </div>
-(4) Perform a sweep operation using the drawn rounded rectangle and circle.
+(5) Perform a sweep operation using the drawn rounded rectangle and circle.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/4.png"  style="width:70%;">
 </div>
-(5) Create a part from the solid entities (subsequent parts should also be created or set as parts from the beginning), and then create a sketch for a cylindrical pipe.
+(6) Create a part from the solid entities (subsequent parts should also be created or set as parts from the beginning), and then create a sketch for a cylindrical pipe.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/5.png" style="width:70%;">
 </div>
-(6) Create an array of four identical parts in a circular pattern, and then complete the drawing of a circle and a vertical line.
+(7) Create an array of four identical parts in a circular pattern, and then complete the drawing of a circle and a vertical line.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/hxzl.png"  style="width:70%;">
 </div>
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/6.png"  style="width:70%;">
 </div>
-(7) Move and copy the circle, then use the sweep method to create a torus (ring-shaped object).
+(8) Move and copy the circle, then use the sweep method to create a torus (ring-shaped object).
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/7.png"  style="width:70%;">
 </div>
-(8) Move and copy the torus to create another one, then draw the contour lines.
+(9) Move and copy the torus to create another one, then draw the contour lines.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/8.png"  style="width:70%;">
 </div>
-(9) After extruding, cut off a portion of the torus.
+(10) After extruding, cut off a portion of the torus.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/9.png"  style="width:70%;">
 </div>
-(10) Use the circle, line, and trim commands to draw a circular track, then extrude it to create a part.
+(11) Use the circle, line, and trim commands to draw a circular track, then extrude it to create a part.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/10.png"  style="width:70%;">
 </div>
-(11) Draw two circles for the purpose of performing a cut.
+(12) Draw two circles for the purpose of performing a cut.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/11.png"  style="width:70%;">
 </div>
-(12) After extruding and performing the cut operation, the resulting image is obtained. Similarly, after generating a rectangle in the sketch and performing the cut operation, the resulting image is obtained.
+(13) After extruding and performing the cut operation, the resulting image is obtained. Similarly, after generating a rectangle in the sketch and performing the cut operation, the resulting image is obtained.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/12.png"  style="width:70%;">
 </div>
-(13) The circular array produces the image shown below.
+(14) The circular array produces the image shown below.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/13.png"  style="width:70%;">
 </div>
-(14) Draw a cylinder, then create another cylinder and merge them together.
+(15) Draw a cylinder, then create another cylinder and merge them together.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/14.png"  style="width:70%;">
 </div>
-(15) After sketching, extrude the geometry.
+(16) After sketching, extrude the geometry.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/14-1.png"  style="width:70%;">
 </div>
-(16) Obtain the image shown below by applying fillets and adding cylinders.
+(17) Obtain the image shown below by applying fillets and adding cylinders.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/15.png"  style="width:70%;">
 </div>
-(17) Obtain the image shown below by extruding the sketch, and create a cylindrical subtractive component.
+(18) Obtain the image shown below by extruding the sketch, and create a cylindrical subtractive component.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/16.png"  style="width:70%;">
 </div>
-(18) Draw a cylinder and a cylindrical pipe, which can be combined to form an expandable structure.
+(19) Draw a cylinder and a cylindrical pipe, which can be combined to form an expandable structure.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/17.png"  style="width:70%;">
 </div>
-(19) Artificial Intelligence Component Generation (Generated results were unsatisfactory and ultimately not adopted).
+(20) Artificial Intelligence Component Generation (Generated results were unsatisfactory and ultimately not adopted).
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/18.png"  style="width:70%;">
 </div>
-(20) Add details.
+(21) Add details.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/19.png"  style="width:70%;">
 </div>
-(21) The corners are rounded and the material is selected for easy observation.
+(22) The corners are rounded and the material is selected for easy observation.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20.png"  style="width:70%;">
 </div>
-(22) Add details through chamfers to complete the model.
+(23) Add details through chamfers to complete the model.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/yuanjiao.png"  style="width:70%;">
 </div>
