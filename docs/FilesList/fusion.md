@@ -12,13 +12,13 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/1.png"  style="width:70%;">
 </div>
-(2) After completing the central rectangle in the top view, round the corners four times to obtain a rounded rectangle with a corner radius of 40mm.
-<div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/2.png"  style="width:70%;">
-</div>
-(3) Constrain parts of the sketch and complete the sketch.
+(2) Constrain parts of the sketch and complete the sketch.
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/yueshu.png"  style="width:70%;">
+</div>
+(3) After completing the central rectangle in the top view, round the corners four times to obtain a rounded rectangle with a corner radius of 50mm.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/2.png"  style="width:70%;">
 </div>
 (4) In the sketch, draw a circle in preparation for a sweep.
 <div class="center">
