@@ -83,7 +83,7 @@ We found two favourite models from the website and downloaded them to our comput
 The core parameters of 3D printing are shown in the table below：
 
 <div class="center">
-    
+
 | Name     |Data     |
 | :------------ | :------------ |
 | Layer Heights | 0.16mm      |
@@ -94,7 +94,7 @@ The core parameters of 3D printing are shown in the table below：
 | Bottom shell layer count  | 4       | 
 | Bottom shell thickness  | 0mm       | 
 | Infill density    | 15%        | 
-| Support    | None        |
+| Support    | None        | 
 
 </div>
 
