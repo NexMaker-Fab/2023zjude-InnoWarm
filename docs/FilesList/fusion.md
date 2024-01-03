@@ -7,8 +7,8 @@ With Fusion 360, users can perform parametric modeling, assembly design, surface
 
 In summary, Fusion 360 is a powerful design software aimed at providing users with a comprehensive design, engineering, and manufacturing solution. Its design philosophy revolves around integrating various stages of the design and manufacturing process, offering an intuitive interface, and facilitating cloud-based collaboration. Through Fusion 360, users can achieve creative design, product development, and optimization of manufacturing processes.。
 
-## Part Modeling
-(1) Create a new group folder within zju2023, enter the sketch, and draw a central rectangle with dimensions of 200mm for both length and width. 
+## 2.1 Part Modeling
+(1) Create a new group folder within zju2023, enter the sketch, and draw a central rectangle with dimensions of 200mm for both length and width. (Sketches all need constraints)
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/1.png"  style="width:70%;">
 </div>
@@ -29,6 +29,9 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/5.png" style="width:70%;">
 </div>
 (6) Create an array of four identical parts in a circular pattern, and then complete the drawing of a circle and a vertical line.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/hxzl.png"  style="width:70%;">
+</div>
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/6.png"  style="width:70%;">
 </div>
@@ -92,22 +95,36 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20.png"  style="width:70%;">
 </div>
+(22) Add details through chamfers to complete the model.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/yuanjiao.png"  style="width:70%;">
+</div>
 
 
-## 零件建模图例
 
-<if ramestyle="width:70%;"  src="https://a360.co/48R9Go6" ></frame>
+## 2.3 Part models and Drawings
+（1）Model 1
+<iframe style="width:70%;" height=500 src="https://a360.co/48R9Go6" ></frame>
+
+（2）Model 2
+<iframe style="width:70%;" height=500 src="https://a360.co/3THz6zy" ></frame>
+Engineering drawings of model 2
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/gct.png"  style="width:70%;">
+</div>
 
 
 
-## Simulation Video
+
+
+## 2.4 Simulation Video
 
 Motion simulation model building process video:
 
 <iframe style="width:70%;" height=500 src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Plugin Installation and Usage
+## 2.5 Plugin Installation and Usage
 
 **Plugin Installment**
 
@@ -137,12 +154,12 @@ Motion simulation model building process video:
 
 <iframe style="width:70%;" height=500 src="//player.bilibili.com/player.html?aid=280081570&bvid=BV1Uc411o72A&cid=1311464501&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Automated Modeling Examples
+## 2.6 Automated Modeling Examples
 AI automated modeling process video:
 
 <iframe style="width:70%;" height=500 src="////player.bilibili.com/player.html?aid=962553267&bvid=BV11H4y197KG&cid=1311074464&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Other Software
+## 2.7 Other Software
 (1) <a href="https://www.zwcad.com/">ZWSOFT CAD</a>
 
 ZWSOFT（中望） CAD is a professional engineering modeling software independently developed in China, widely used in fields such as architecture, mechanical engineering, and power industry. It is based on an independent kernel and is a 2D CAD platform that is fully compatible with the DWG format. It extensively supports mainstream industry applications and customized development of user-specific functions. Since its launch in 2002, ZWSOFT CAD has helped users in various industries such as architecture, surveying, urban planning, mechanical manufacturing, electronics, and power achieve efficient design and domestic innovation.
