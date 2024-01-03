@@ -229,3 +229,5 @@ https://en.wikipedia.org/wiki/Processing
 https://www.bilibili.com/video/BV1MC4y1s7gm/?spm_id_from=333.999.0.0&vd_source=2401c15cc3a81cfb2753e3ea23639e6a
 
 https://openprocessing.org/
+
+https://learn.microsoft.com/zh-cn/windows/apps/design/devices/kinect-for-windows
