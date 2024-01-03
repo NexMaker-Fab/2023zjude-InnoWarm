@@ -82,7 +82,7 @@ We found two favourite models from the website and downloaded them to our comput
 
 The core parameters of 3D printing are shown in the table below：
 
-<div align="center">
+<div class="center">
 
 | Name     |Data     |
 | :------------ | :------------ |
@@ -111,7 +111,7 @@ Import the model into Bambu Studio, adjust the parameters and scale the size.
 
 Model 2 has essentially the same parameters as Model 1, and we have also removed the supports, as shown below.
 
-<div align="center">
+<div class="center">
 
 | Name     |Data     |
 | :------------ | :------------ |
@@ -201,7 +201,7 @@ We built a tilt model and tried to add support, but it reported an error after a
 
 We partially adjusted the parameters of this test model by changing the number of wall layers to 3, the number of top shell layers to 2, the number of bottom shell layers to 4, and the sparse fill pattern to straight lines.
 
-<div align="center">
+<div class="center">
 
 | Name     |Data     |
 | :------------ | :------------ |
