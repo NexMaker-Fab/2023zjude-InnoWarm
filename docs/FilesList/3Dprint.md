@@ -82,21 +82,7 @@ We found two favourite models from the website and downloaded them to our comput
 
 The core parameters of 3D printing are shown in the table below：
 
-<div class="center">
 
-| Name     |Data     |
-| :------------ | :------------ |
-| Layer Heights | 0.16mm      |
-| Initial layer height   | 0.2mm        | 
-| Wall layers count  | 2        | 
-| Top shell layers count | 4       | 
-| Top shell thickness | 0.6mm        | 
-| Bottom shell layer count  | 4       | 
-| Bottom shell thickness  | 0mm       | 
-| Infill density    | 15%        | 
-| Support    | None        | 
-
-</div>
 
 **Model 2**
 
