@@ -125,9 +125,18 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/g/shares/SH512d4QTec90decfa6ed26fd12674a3bf40?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true' frameborder="0" > 
 </iframe>
 
-Engineering drawings of model 2
+>Engineering drawings of model 2
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/gct.png"  style="width:70%;">
+</div>
+
+（3）Model 3
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/g/shares/SH512d4QTec90decfa6e053ddce04b00bd36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true' frameborder="0" > 
+</iframe>
+
+>Engineering drawings of model 3  **(Engineering Drawing for on component at least)**
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/model3.jpg"  style="width:70%;">
 </div>
 
 ## 2.4 Simulation Video
