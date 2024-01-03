@@ -113,14 +113,22 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 （2）Model 2
 <iframe style="width:70%;" height=500 src="https://a360.co/3THz6zy" ></frame>
 
+
+
+（3）Model 3
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/g/shares/SH512d4QTec90decfa6ed26fd12674a3bf40?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true' frameborder="0" > 
+</iframe>
+
+（2）Model 2
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/g/shares/SH512d4QTec90decfa6ed26fd12674a3bf40?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true' frameborder="0" > 
+</iframe>
+
 Engineering drawings of model 2
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/gct.png"  style="width:70%;">
 </div>
-
-
-
-
 
 ## 2.4 Simulation Video
 
@@ -128,8 +136,13 @@ Motion simulation model building process video:
 
 <iframe style="width:70%;" height=500 src="//player.bilibili.com/player.html?aid=832564395&bvid=BV1834y1u7Hv&cid=1311044014&p=1"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## 2.5 GIF Animation of Motion Simulation
 
-## 2.5 Plugin Installation and Usage
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/kydmv-n44w8.gif"  style="width:70%;">
+</div>
+
+## 2.6 Plugin Installation and Usage
 
 **Plugin Installment**
 
