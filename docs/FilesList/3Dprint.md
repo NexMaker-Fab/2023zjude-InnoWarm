@@ -82,13 +82,21 @@ We found two favourite models from the website and downloaded them to our comput
 
 The core parameters of 3D printing are shown in the table below：
 
-| Name     |Data     |
-| ------------ | ------------ |
-| Single Layer Thickness      | Title       |
-| Model Wall Thickness   | Text        | 
-| Model Wall Thickness   | Text        | 
-| Model Wall Thickness   | Text        | 
+<div class="center">
 
+| Name     |Data     |
+| :------------ | :------------ |
+| Layer Heights | 0.16mm      |
+| Initial layer height   | 0.2mm        | 
+| Wall layers count  | 2        | 
+| Top shell layers count | 4       | 
+| Top shell thickness | 0.6mm        | 
+| Bottom shell layer count  | 4       | 
+| Bottom shell thickness  | 0mm       | 
+| Infill density    | 15%        | 
+| Support    | None        | 
+
+</div>
 
 **Model 2**
 
@@ -104,9 +112,20 @@ Import the model into Bambu Studio, adjust the parameters and scale the size.
 Model 2 has essentially the same parameters as Model 1, and we have also removed the supports, as shown below.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter2.png" width="800">
-</div>
 
+| Name     |Data     |
+| :------------ | :------------ |
+| Layer Heights | 0.16mm      |
+| Initial layer height   | 0.2mm        | 
+| Wall layers count  | 2        | 
+| Top shell layers count | 4       | 
+| Top shell thickness | 0.6mm        | 
+| Bottom shell layer count  | 4       | 
+| Bottom shell thickness  | 0mm       | 
+| Infill density    | 15%        | 
+| Support    | None        | 
+
+</div>
 
 Slice and save the file.
 
@@ -183,9 +202,19 @@ We built a tilt model and tried to add support, but it reported an error after a
 We partially adjusted the parameters of this test model by changing the number of wall layers to 3, the number of top shell layers to 2, the number of bottom shell layers to 4, and the sparse fill pattern to straight lines.
 
 <div class="center">
-    <img src="https://github.com/Mia1210-my/MY/raw/main/img/paremeter3.png" width="500">
-</div>
 
+| Name     |Data     |
+| :------------ | :------------ |
+| Wall layers count  | 3        | 
+| Top shell layers count | 2       | 
+| Top shell thickness | 0.6mm        | 
+| Bottom shell layer count  | 4       | 
+| Bottom shell thickness  | 0mm       | 
+| Infill density    | 15%        | 
+| Sparse Infill Pattern    | straightness       | 
+| Support    | None        | 
+
+</div>
 
 Display of Printed Objects:
 
