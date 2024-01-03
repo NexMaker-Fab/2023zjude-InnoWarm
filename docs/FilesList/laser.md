@@ -73,4 +73,48 @@ __kerf= (51.34-50)/10=0.134mm__
 
 ## 6.4 Laser Cutting Project
 
+>(1) Drawing design: AI is used to make a rotating arm assembly, and the aperture is designed according to the servo hole. Mode selection laser cutting
+assemble laser cutter part.
 
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/drawdesign.jpg" style="width:75%;">
+  </div>
+
+>(2) Turn on the laser cutting machine, confirm the safe operation status of the machine, and perform operations such as resetting, positioning, and cutting the frame.
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/preparelaser.jpg" style="width:75%;">
+  </div>
+
+>(3) Parameter adjustment: the parameter of laser cutting is speed 10mm/s, the maximum power is 100%, the minimum power is 90%, and the parameter of laser scanning is speed 500mm/s
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/paras.jpg" style="width:75%;">
+  </div>
+
+>(4) Make a cut, and one part of laser cutting is completed.
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/carrot.jpg" style="width:75%;">
+  </div>
+
+## 6.4 Assemble with Arduino
+
+<iframe width="100%" height="650" 
+src="//player.bilibili.com/player.html?aid=965745190&bvid=BV1JW4y1P7Ha&cid=1392645038&p=1" 
+scrolling="no" border="0" frameborder="0" allowfullscreen>
+</iframe>
+
+## 6.5 Assemble laser cutter parts together
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/workonlaser.jpg" style="width:75%;">
+  </div>
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/laserparts.jpg" style="width:75%;">
+  </div>
+
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/laserconnect.jpg" style="width:75%;">
+  </div>
