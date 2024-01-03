@@ -95,6 +95,11 @@ In summary, Fusion 360 is a powerful design software aimed at providing users wi
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20.png"  style="width:70%;">
 </div>
+(22) Add details through chamfers to complete the model.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/yuanjiao.png"  style="width:70%;">
+</div>
+
 
 
 ## 2.3 Part models and Drawings
