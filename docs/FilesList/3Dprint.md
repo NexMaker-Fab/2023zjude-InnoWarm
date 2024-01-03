@@ -85,7 +85,7 @@ The core parameters of 3D printing are shown in the table below：
 <div align="center">
 
 | Name     |Data     |
-| ------------ | ------------ |
+| :------------ | :------------ |
 | Layer Heights | 0.16mm      |
 | Initial layer height   | 0.2mm        | 
 | Wall layers count  | 2        | 
@@ -114,7 +114,7 @@ Model 2 has essentially the same parameters as Model 1, and we have also removed
 <div align="center">
 
 | Name     |Data     |
-| ------------ | ------------ |
+| :------------ | :------------ |
 | Layer Heights | 0.16mm      |
 | Initial layer height   | 0.2mm        | 
 | Wall layers count  | 2        | 
@@ -204,7 +204,7 @@ We partially adjusted the parameters of this test model by changing the number o
 <div align="center">
 
 | Name     |Data     |
-| ------------ | ------------ |
+| :------------ | :------------ |
 | Wall layers count  | 3        | 
 | Top shell layers count | 2       | 
 | Top shell thickness | 0.6mm        | 
