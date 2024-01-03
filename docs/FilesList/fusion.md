@@ -1,4 +1,4 @@
-# 2.Fusion
+# 2. Fusion
 
 Fusion 360 is a comprehensive design software developed by Autodesk, originally known as "Inventor Fusion" when it was first introduced in 2009. It provides a powerful set of tools and features for 3D modeling, CAD (Computer-Aided Design), CAM (Computer-Aided Manufacturing), CAE (Computer-Aided Engineering), as well as collaboration and data management.
 The design philosophy of Fusion 360 is to integrate design, engineering, and manufacturing into a unified platform, offering users a holistic design and manufacturing solution. It features an intuitive user interface, cloud storage, and collaboration capabilities, assisting designers, engineers, and manufacturers in creative design, product development, and optimization of manufacturing processes.
