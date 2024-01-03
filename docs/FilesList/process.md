@@ -200,12 +200,27 @@ void loop() {
 
 <iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=283228357&bvid=BV1dc411b7Rn&cid=1391705018&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 4.4 New Tool
-NodeBox is a node-based software application for generative design. It is developed by the experimental graphic design studio NodeBox. It is a free and open-source software released under the GNU General Public License. It is available for macOS and Windows.
+## 4.4 New Tool:Kineck
+Microsoft Kinect is the next generation of Computing. Kinect is a motion sensing input device by Microsoft for the Xbox 360 video game console and Windows PCs. Based around a webcam-style add-on peripheral for the Xbox 360 console, it enables users to control and interact with the Xbox 360 without the need to touch a game controller, through a natural user interface using gestures and spoken commands. [The project is aimed at broadening the Xbox 360's audience beyond its typical gamer base. Kinect competes with the Wii Remote Plus and PlayStation. Move with PlayStation Eye motion controllers for the Wii and PlayStation 3 home consoles, respectively. The Kinect for Windows sensor is a fully-tested and supported Kinect experience on Windows with features such as “near mode,” skeletal tracking control, API improvements, and improved USB support across a range of Windows computers and Windows-specific 10’ acoustic models. The sensor was specifically designed to be used with computers, and includes a shortened USB cable to ensure reliability across a broad range of computers. Kinect for Xbox 360 was built for and tested with the Xbox 360 only, not with any other platform, which is why it is not licensed for general commercial use, supported, or under warranty when used on any other platform. Kinect for Xbox 360, on the other hand, was built for and tested with the Xbox 360 only, not with any other platform, which is why it is not licensed for general commercial use, supported, or under warranty when used on any other platform. Microsoft has a large team of engineers that is dedicated to continual improvements of the hardware and software associated with Kinect for Windows, and is committed to providing ongoing access to Microsoft's deep investment in human tracking and speech recognition. But both can be used for development.
 
-NodeBox is actually a visual functional progamming language. It is inspired by a number of textual functional programming languages, notably Clojure and Haskell.
+**Core Technologies:**
+- Depth Sensing: Kinect incorporates a depth camera that generates a depth map, enabling precise measurement of distances between objects.
+- RGB Camera: In addition to the depth camera, it includes a regular RGB camera for capturing color images.
+- Microphone Array: An integrated array of microphones is used for sound recognition and localization.
 
+**Applications:**
+- Gaming: Initially designed for Xbox games, Kinect revolutionized gaming by allowing users to control games through body movements and voice commands.
+- Virtual Reality (VR) and Augmented Reality (AR): Kinect finds extensive use in VR and AR applications, enhancing immersive experiences by capturing user movements and the environment.
+- Art and Creative Programming: Artists and developers leverage Kinect for various creative projects, including interactive art installations and real-time animations.
 
+**Development Support:**
+- Kinect provides a set of development tools and an SDK (Software Development Kit), empowering developers to access depth maps, color images, and audio data for diverse applications.
+
+**Evolution of Kinect:**
+- Subsequent versions, such as Kinect for Windows v2, offer enhanced depth sensing and features specifically tailored for the Windows platform.
+- Microsoft introduced the Azure Kinect DK, expanding Kinect's capabilities beyond gaming to support a broader range of computer vision and deep learning applications.
+
+Kinect stands as a remarkable technology with applications spanning gaming, virtual interaction, and creative programming. Its depth sensing capabilities and full-body motion capture make it a powerful tool for various innovative endeavors.
 
 ## Reference
 
