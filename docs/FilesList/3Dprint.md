@@ -1,3 +1,5 @@
+# 5. 3D Printing
+
 # 5.1 The background of 3D printing
 
 3D printing, or additive manufacturing, is a revolutionary process that involves the creation of three-dimensional objects through the successive addition of material in layers. This technology utilizes digital 3D model files to construct physical objects, layer by layer, using a variety of materials, including plastics, metals, and ceramics. Notably, 3D printing offers advantages such as the ability to produce intricate internal structures, increased material and time efficiency compared to traditional manufacturing, and widespread applications across diverse fields.

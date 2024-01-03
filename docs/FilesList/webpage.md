@@ -1,9 +1,7 @@
-# 1. Webpage
-
-The second session of Design Engineering focused on the steps involved in building a website. Utilizing the html/markdown language, the group stored process data (including images, text, etc.) in both github and local disks, and generated the webpage architecture.
+# 1. Project Management
 
 ## 1.1 Basic Framework 
-We created a public repository on Github (following pictures are not this web but an example)
+We created a public repository on Github (following pictures **are not this web but an example**)
 
 <div class="center">
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023213201.png" style="width:75%;" >

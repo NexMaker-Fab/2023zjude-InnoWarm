@@ -1,4 +1,4 @@
-# Arduino
+# 3. Arduino
 ## 3.1 Hardware
 
 **(1)Raspberry Pi**
