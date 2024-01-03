@@ -119,15 +119,93 @@ class Particle {
 
 When the mouse is clicked, traces appear on the screen to generate interactions：
 
-<iframe src="//player.bilibili.com/player.html?aid=964094838&bvid=BV1hH4y1176L&cid=1350323084&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=964094838&bvid=BV1hH4y1176L&cid=1350323084&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 3.3 Demo
+## 3.3 Demo in processing and arduino
 
-## 3.4 IOT
-。。。。
+**(1)Processing code**
 
-## 3.5 GUI
+```
+import processing.serial.*;
+Serial port;
 
-## 3.6 Reference
+int diam = 50;
+
+void setup(){
+  size(500,500);
+  background(#ffffff);
+  
+  fill(#f3a694);
+  noStroke();
+  ellipse(200 , 200 , diam , diam);
+  
+  String portName = Serial.list()[1];
+  port = new Serial(this, portName ,9600);
+  println(portName);
+}
+
+void draw() {
+  
+  while(port.available()>0)
+  {
+    diam = port.readChar();
+    //println(diam);
+    clear();
+    background(#ffffff);
+    ellipse(200, 200, diam, diam);
+  }
+  
+  
+  
+  //println(777);
+  
+  //delay(100);
+  
+}
+```
+
+**(2)arduino**
+
+arduino connection
+
+<div class="center">
+    <img src="https://github.com/aooazja/2023zjude-zja/raw/main/IMG/WechatIMG14.jpg"  width="300" height="280">
+</div>
+
+arduino code
+
+```
+int size = 0;
+
+void setup() {
+  
+  Serial.begin(9600);
+
+
+}
+
+void loop() {
+  
+  size = map(analogRead(A0), 0, 1023, 5, 190);
+
+  Serial.write(size);
+
+//  delay(10)
+}
+```
+
+**(3)Demonstration**
+
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=877935782&bvid=BV1zN4y1q7UU&cid=1384859693&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe width="560" height="500" src="//player.bilibili.com/player.html?aid=283228357&bvid=BV1dc411b7Rn&cid=1391705018&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+## 3.4 New Tool
+
+## Reference
 
 https://en.wikipedia.org/wiki/Processing
+
+https://www.bilibili.com/video/BV1MC4y1s7gm/?spm_id_from=333.999.0.0&vd_source=2401c15cc3a81cfb2753e3ea23639e6a
+
+https://openprocessing.org/

@@ -1,12 +1,12 @@
 * [Team introduction](FilesList/intro.md)
 * Course Outline
-  * [1. WebPage](FilesList/webpage.md)
-  * [2. Fusion 360](FilesList/fusion.md)
-  * [3. Arduino](FilesList/arduino.md)
-  * [4. Processing](FilesList/process.md)
-  * [5. 3D printing](FilesList/3Dprint.md)
-  * [6. laser cuting](FilesList/laser.md)
-  * [7. IoT](FilesList/iot.md)
+  * [1. Project management](FilesList/webpage.md)
+  * [2. Computer aided design](FilesList/fusion.md)
+  * [3. 3D printing](FilesList/3Dprint.md)
+  * [4. Computer-controlled cuting](FilesList/laser.md)
+  * [5. Arduino](FilesList/arduino.md)
+  * [6. Interface application programming](FilesList/process.md)
+  
 * Final project
   * [1. Topic](FilesList/finaltopic.md)
   * innovation

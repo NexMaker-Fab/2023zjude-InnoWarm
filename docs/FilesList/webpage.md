@@ -6,33 +6,33 @@ The second session of Design Engineering focused on the steps involved in buildi
 We created a public repository on Github (following pictures are not this web but an example)
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023213201.png" width="700px" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023213201.png" style="width:75%;" >
   </div>
 
 Create a new file on the Github web and edit it.
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212722.png" width="700px" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212722.png" style="width:75%;" >
   </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212746.png" width="700px" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023212746.png" style="width:75%;" >
   </div>
 
 After repository had been built, we opened the Github Desktop and find our repository which we wanted to clone to the local disk.
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104307.png" width="700px" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104307.png" style="width:75%;" >
   </div>
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104345.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104345.png" style="width:75%;">
   </div>
 
 
 Once the repository has been cloned, we can open and edit it offline.
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104431.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025104431.png" style="width:75%;">
   </div>
 
 Finally, with the following steps we can configure and initialize the local environment.
@@ -68,21 +68,21 @@ Listening at http://localhost:3000
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005234205.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005234205.png" style="width:75%;">
   </div>
 </body>
 
 Fold and File Relationship
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231026135710.png" width="700px" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/foldandfile.png" style="width:75%;" >
   </div>
 </body>
 
 ## 1.2 Markdown
 When writing the website, we  build the basic framework  by comprehensively studying and referring to the syntax rules and typical cases given by NexMakerLab, ChatGPT, Github and other platforms, and some cases are given below.
 
-(1) header
+(1) headers
 
 ```
 {
@@ -95,8 +95,25 @@ Display results:
   # First-Level Title
   ## Second-Level Title
   ### Third-Level Title
+(2) emphasis
+```
+{
+  italics use single star/underscore: *text* or_text_ 
+  bold use double stars/underscores: **text** or __text__
+  Strikethrough use double tildes: ~~text~~
+}
+``` 
+Display Results:
+
+italics use single star/underscore: *text* or _text_ 
+
+bold use double stars/underscores: **text** or __text__
+
+Strikethrough use double tildes: ~~text~~
 
 (3) picture
+
+**Markdown method:**
 
 ```
 {
@@ -107,8 +124,20 @@ Display results:
 ``` 
 Display results:
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png" alt="Fig1. Install docsify">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png" style="width:75%;">
   </div>
+
+
+**Origin Method:**
+```
+{
+  ![Fig1. Install docsify](https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png)
+}
+```
+Display results:
+
+![Fig1. Install docsify](https://github.com/ingw3216/blogimage/raw/main/img/20231005231359.png)
+
 (4) link
 
 ```
@@ -124,24 +153,24 @@ We adopted a suggestion from Zhihu user <a href="https://zhuanlan.zhihu.com/p/48
 We go to https://github.com/settings/tokens
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215041.png" width="700px" >
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215041.png" style="width:75%;" >
 </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215214.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231023215214.png" style="width:75%;">
 </div>
 
 In Pic Go, we select the "Github" option of the settings and paste the copied Tokens accordingly.
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025111355.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025111355.png" style="width:75%;">
   </div>
 </body>
 
 <body>
   <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005235451.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231005235451.png" style="width:75%;">
   </div>
 </body>
 
@@ -173,22 +202,30 @@ scrolling="no" border="0" frameborder="0" allowfullscreen>
 ## 1.5 Group Invitation
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112242.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112242.png" style="width:75%;">
   </div>
 
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112322.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231025112322.png" style="width:75%;">
   </div>
 
 In order to protect the safety of the project, team members are given permission to write only.
 <div class="center">
-    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231108225447.png" width="700px">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/20231108225447.png" style="width:75%;">
   </div>
 
-## 1.6 Future Enhancements
+## 1.6 Project Update
 
-The interface is simple and the content is thin. In the subsequent lessons, we can refer to different materials and tutorials, and continue to explore more diversified screens and more interesting web interactions :)
+We use Github Desktop to update the project. The following is the update process of the project.
+<div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/update.png" style="width:75%;">
+  </div>
+
+  <div class="center">
+    <img src="https://github.com/ingw3216/blogimage/raw/main/img/update1.png" style="width:75%;">
+  </div>
+
 
 ## 1.7 Reference & Acknowledgment
 
-This coursework was completed with reference to the 2022 course work, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
+This coursework was completed with reference to zjude2022, thanks to the SoFarSoGood team, and thanks to Xinrui Li, Software Engineering 2023, for providing valuable suggestions for revisions.
