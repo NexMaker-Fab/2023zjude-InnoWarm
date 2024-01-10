@@ -7,14 +7,7 @@
   * [5. 3D printing](FilesList/3Dprint.md)
   * [6. Computer-controlled cuting](FilesList/laser.md)
   
-* Final project
-  * [1. Topic](FilesList/finaltopic.md)
-  * innovation
-  * market
-  * how to design 
-  * how to make
-  * SDGs
-  * References
+* [Final project](FilesList/finaltopic.md)
 
 
   
